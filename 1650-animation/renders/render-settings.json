@@ -1,0 +1,21 @@
+{
+  "engine": "Remotion 4.0.537 (Chromium headless shell, GL backend: swiftshader)",
+  "composition": "Main (src/Main.tsx), designed at 1920x1080",
+  "fps": 60,
+  "frames": 15364,
+  "durationSeconds": 256.067,
+  "masters": {
+    "final-4k60.mp4": {"resolution": "3840x2160 (--scale=2)", "video": "H.264 CRF 18, yuv420p", "audio": "AAC 256k 48 kHz, mastered -16 LUFS / -1.5 dBTP", "note": "vector layers native 4K; painted backgrounds upscaled from 1536x1024 references (Lanczos 2x + camera zoom)"},
+    "final-1080p60.mp4": {"resolution": "1920x1080 (Lanczos downscale of the 4K master)", "video": "H.264 CRF 18", "audio": "AAC 256k"},
+    "final-1080p60-web.mp4": {"resolution": "1920x1080", "video": "H.264 ~2.6 Mbps", "audio": "AAC 128k", "note": "small copy committed to git"}
+  },
+  "commands": [
+    "npx remotion render src/index.ts Main renders/part-a-4k.mp4 --scale=2 --frames=0-7681 --muted --crf=18",
+    "npx remotion render src/index.ts Main renders/part-b-4k.mp4 --scale=2 --frames=7682-15363 --muted --crf=18",
+    "npx remotion render src/index.ts Main mix-raw.wav --codec=wav --config=remotion.audio.config.ts",
+    "ffmpeg concat parts + mix-raw.wav, then: bash scripts/master.sh joined.mov renders/final-4k60.mp4 audio/mix-master.wav",
+    "python3 scripts/verify.py renders/final-4k60.mp4"
+  ],
+  "renderTime": "about 42 min per 4K half on 4 CPU cores (no GPU); 1080p full film about 29 min",
+  "qa": "verify.py PASS: 15364/15364 frames, no freezes, black only at the eyes-opening intro, -16.0 LUFS, true peak -1.5 dBFS, 66 subtitle cues with 0 issues"
+}

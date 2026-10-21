@@ -26,7 +26,8 @@ entirely from original vector art.
 | `src/animations/keyframes.ts` | Keyframe engine, easing, and narration anchors |
 | `src/scenes/Scene1..9.tsx` | The 9 scenes |
 | `scripts/` | Pipeline scripts (see below) |
-| `renders/` | Rendered outputs |
+| `renders/` | `final-4k60.mp4` (master), `final-1080p60.mp4`, `final-1080p60-web.mp4` (committed), `render-settings.json` |
+| `audio/mix-master.wav` | Final mastered audio mix (-16 LUFS, -1.5 dBTP) |
 
 ## Pipeline
 
@@ -42,7 +43,12 @@ npx remotion studio src/index.ts           # interactive editing
 npx remotion render src/index.ts Preview renders/preview.mp4          # first 40 s
 npx remotion render src/index.ts Main renders/final-1080p60.mp4       # 1920x1080, 60 fps
 npx remotion render src/index.ts Main renders/final-4k60.mp4 --scale=2  # 3840x2160, 60 fps
+bash scripts/master.sh <render.mp4> <final.mp4> [mix.wav]           # loudness -16 LUFS / -1.5 dBTP
+python3 scripts/verify.py renders/final-4k60.mp4                       # QA: frames, freezes, black, audio, SRT
 ```
+
+The exact commands and settings used for the final render are in `renders/render-settings.json`.
+On this 4-core, CPU-only machine the 4K render took about 85 minutes, done in two halves.
 
 `node scripts/stills.mjs Main <outdir> <frame…>` renders single frames for review.
 Add `DEBUG=1` to outline the silhouette of the original boy, so you can check that the rigged
