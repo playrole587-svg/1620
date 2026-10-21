@@ -1,0 +1,118 @@
+{
+  "title": "Apa Terjadi Jika Kita Terbangun di Tahun 1650?",
+  "language": "id-ID",
+  "note": "Sumber tunggal naskah narasi. 'text' tampil sebagai subtitle; 'tts' adalah ejaan yang diucapkan (angka ditulis dengan huruf). Ubah file ini lalu jalankan scripts/build_narration.py untuk menghitung ulang timing, SRT, dan timeline.",
+  "scenes": [
+    {
+      "id": "s1",
+      "title": "Terbangun di Tahun 1650",
+      "leadIn": 2.6,
+      "tail": 1.2,
+      "segments": [
+        { "id": "s1a", "text": "Bayangkan kamu bangun tidur… tapi bukan di kamarmu.", "tts": "Bayangkan kamu bangun tidur. Tapi, bukan di kamarmu.", "pauseAfter": 0.7 },
+        { "id": "s1b", "text": "Kamu terbangun di sebuah pelabuhan yang ramai.", "tts": "Kamu terbangun di sebuah pelabuhan yang ramai.", "pauseAfter": 0.35 },
+        { "id": "s1c", "text": "Kapal-kapal kayu bersandar, bendera Belanda berkibar, dan orang-orang berpakaian kuno berlalu-lalang.", "tts": "Kapal-kapal kayu bersandar, bendera Belanda berkibar, dan orang-orang berpakaian kuno berlalu-lalang.", "pauseAfter": 0.6 },
+        { "id": "s1d", "text": "Lalu kamu sadar: ini bukan tahun 2026. Ini tahun 1650!", "tts": "Lalu kamu sadar. Ini bukan tahun dua ribu dua puluh enam. Ini tahun seribu enam ratus lima puluh!", "pauseAfter": 0.6 },
+        { "id": "s1e", "text": "Jadi, apa yang terjadi jika kita terbangun di tahun 1650?", "tts": "Jadi, apa yang terjadi, jika kita terbangun di tahun seribu enam ratus lima puluh?", "pauseAfter": 0.3 }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Tidak Ada Teknologi Modern",
+      "leadIn": 1.0,
+      "tail": 1.0,
+      "segments": [
+        { "id": "s2a", "text": "Nomor dua: tidak ada teknologi modern.", "tts": "Nomor dua. Tidak ada teknologi modern.", "pauseAfter": 0.5 },
+        { "id": "s2b", "text": "Coba keluarkan HP-mu… tidak ada sinyal. Tidak ada internet.", "tts": "Coba keluarkan hape-mu. Tidak ada sinyal. Tidak ada internet.", "pauseAfter": 0.5 },
+        { "id": "s2c", "text": "Di tahun 1650, tidak ada HP, internet, listrik, komputer, kendaraan modern, atau hiburan seperti sekarang.", "tts": "Di tahun seribu enam ratus lima puluh, tidak ada hape, internet, listrik, komputer, kendaraan modern, atau hiburan seperti sekarang.", "pauseAfter": 0.45 },
+        { "id": "s2d", "text": "Untuk mendapatkan informasi, orang datang langsung ke pasar, mendengar berita dari orang lain, atau membaca pengumuman di tempat umum.", "tts": "Untuk mendapatkan informasi, orang datang langsung ke pasar, mendengar berita dari orang lain, atau membaca pengumuman di tempat umum.", "pauseAfter": 0.2 }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Kamu Bisa Jadi Menarik Perhatian",
+      "leadIn": 1.0,
+      "tail": 1.0,
+      "segments": [
+        { "id": "s3a", "text": "Nomor tiga: kamu bisa jadi pusat perhatian.", "tts": "Nomor tiga. Kamu bisa jadi pusat perhatian.", "pauseAfter": 0.5 },
+        { "id": "s3b", "text": "Kaus, celana, dan tas punggungmu akan terlihat sangat aneh bagi orang-orang di tahun 1650.", "tts": "Kaus, celana, dan tas punggungmu, akan terlihat sangat aneh bagi orang-orang di tahun seribu enam ratus lima puluh.", "pauseAfter": 0.45 },
+        { "id": "s3c", "text": "Begitu juga cara bicara dan perilakumu.", "tts": "Begitu juga cara bicara, dan perilakumu.", "pauseAfter": 0.45 },
+        { "id": "s3d", "text": "Akibatnya, kamu bisa menarik perhatian, dianggap orang asing, atau bahkan dicurigai.", "tts": "Akibatnya, kamu bisa menarik perhatian, dianggap orang asing, atau bahkan dicurigai.", "pauseAfter": 0.2 }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Bahasa Bisa Jadi Masalah",
+      "leadIn": 1.0,
+      "tail": 1.0,
+      "segments": [
+        { "id": "s4a", "text": "Nomor empat: bahasa bisa jadi masalah.", "tts": "Nomor empat. Bahasa bisa jadi masalah.", "pauseAfter": 0.5 },
+        { "id": "s4b", "text": "“Wat zoek je?” — dalam bahasa Belanda, artinya “Kamu cari apa?”", "tts": "Wat zoek je? Dalam bahasa Belanda, artinya: kamu cari apa?", "pauseAfter": 0.5 },
+        { "id": "s4c", "text": "Di tahun 1650, setiap wilayah memiliki bahasa yang berbeda. Di kota pelabuhan, kamu bisa mendengar bahasa Belanda, Inggris, Prancis, atau Jerman.", "tts": "Di tahun seribu enam ratus lima puluh, setiap wilayah memiliki bahasa yang berbeda. Di kota pelabuhan, kamu bisa mendengar bahasa Belanda, Inggris, Prancis, atau Jerman.", "pauseAfter": 0.45 },
+        { "id": "s4d", "text": "Jika tidak mengerti bahasa setempat, kamu akan kesulitan membeli barang, bertanya arah, atau bahkan meminta bantuan.", "tts": "Jika tidak mengerti bahasa setempat, kamu akan kesulitan membeli barang, bertanya arah, atau bahkan meminta bantuan.", "pauseAfter": 0.2 }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Kondisi Hidup Lebih Keras",
+      "leadIn": 1.0,
+      "tail": 1.0,
+      "segments": [
+        { "id": "s5a", "text": "Nomor lima: kondisi hidup jauh lebih keras.", "tts": "Nomor lima. Kondisi hidup jauh lebih keras.", "pauseAfter": 0.5 },
+        { "id": "s5b", "text": "Kebersihan, kesehatan, dan makanan belum sebaik sekarang. Air kotor dibuang begitu saja ke jalan.", "tts": "Kebersihan, kesehatan, dan makanan, belum sebaik sekarang. Air kotor dibuang begitu saja ke jalan.", "pauseAfter": 0.45 },
+        { "id": "s5c", "text": "Penyakit seperti cacar, disentri, dan wabah pes mudah menyebar, dan banyak orang meninggal di usia muda.", "tts": "Penyakit seperti cacar, disentri, dan wabah pes, mudah menyebar, dan banyak orang meninggal di usia muda.", "pauseAfter": 0.45 },
+        { "id": "s5d", "text": "Hidup di tahun 1650 jauh lebih berisiko dan penuh tantangan.", "tts": "Hidup di tahun seribu enam ratus lima puluh, jauh lebih berisiko, dan penuh tantangan.", "pauseAfter": 0.2 }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Kamu Harus Bekerja untuk Hidup",
+      "leadIn": 1.0,
+      "tail": 1.0,
+      "segments": [
+        { "id": "s6a", "text": "Nomor enam: kamu harus bekerja untuk hidup.", "tts": "Nomor enam. Kamu harus bekerja untuk hidup.", "pauseAfter": 0.5 },
+        { "id": "s6b", "text": "Kebanyakan orang bekerja keras setiap hari demi makanan, tempat tinggal, dan kebutuhan lainnya.", "tts": "Kebanyakan orang bekerja keras setiap hari, demi makanan, tempat tinggal, dan kebutuhan lainnya.", "pauseAfter": 0.45 },
+        { "id": "s6c", "text": "Ada petani yang bekerja di ladang sepanjang hari, dan pekerja kasar yang mengangkat barang berat di pelabuhan.", "tts": "Ada petani yang bekerja di ladang sepanjang hari, dan pekerja kasar yang mengangkat barang berat di pelabuhan.", "pauseAfter": 0.35 },
+        { "id": "s6d", "text": "Ada pembantu rumah untuk keluarga kaya, pengrajin besi, kayu, dan kain, juga tentara yang berisiko tinggi di medan perang.", "tts": "Ada pembantu rumah untuk keluarga kaya, pengrajin besi, kayu, dan kain, juga tentara, yang berisiko tinggi di medan perang.", "pauseAfter": 0.45 },
+        { "id": "s6e", "text": "Tidak ada gaji tinggi seperti sekarang, dan pekerjaannya berat serta berisiko.", "tts": "Tidak ada gaji tinggi seperti sekarang, dan pekerjaannya berat, serta berisiko.", "pauseAfter": 0.2 }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Harga Barang dan Kehidupan Harian",
+      "leadIn": 1.0,
+      "tail": 1.0,
+      "segments": [
+        { "id": "s7a", "text": "Nomor tujuh: harga barang dan kehidupan sehari-hari.", "tts": "Nomor tujuh. Harga barang, dan kehidupan sehari-hari.", "pauseAfter": 0.5 },
+        { "id": "s7b", "text": "Uang yang digunakan bukan ringgit atau rupiah, melainkan koin emas, perak, atau tembaga.", "tts": "Uang yang digunakan bukan ringgit atau rupiah, melainkan koin emas, perak, atau tembaga.", "pauseAfter": 0.45 },
+        { "id": "s7c", "text": "Roti adalah makanan pokok yang relatif murah. Telur dan sayur juga terjangkau, meski sayur tidak selalu ada setiap musim.", "tts": "Roti adalah makanan pokok yang relatif murah. Telur dan sayur juga terjangkau, meski sayur tidak selalu ada setiap musim.", "pauseAfter": 0.35 },
+        { "id": "s7d", "text": "Ikan lebih mudah didapat di dekat sungai atau laut. Tapi daging dan keju cukup mahal, biasanya hanya untuk orang kaya.", "tts": "Ikan lebih mudah didapat di dekat sungai atau laut. Tapi daging dan keju cukup mahal, biasanya hanya untuk orang kaya.", "pauseAfter": 0.45 },
+        { "id": "s7e", "text": "Banyak orang harus bekerja keras hanya untuk membeli makanan sederhana.", "tts": "Banyak orang harus bekerja keras, hanya untuk membeli makanan sederhana.", "pauseAfter": 0.2 }
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "Hukuman yang Sangat Keras",
+      "leadIn": 1.2,
+      "tail": 1.2,
+      "segments": [
+        { "id": "s8a", "text": "Nomor delapan: hukuman yang sangat keras.", "tts": "Nomor delapan. Hukuman yang sangat keras.", "pauseAfter": 0.6 },
+        { "id": "s8b", "text": "Di tahun 1650, hukuman jauh lebih berat daripada sekarang. Kesalahan kecil pun bisa dihukum cambuk di depan umum.", "tts": "Di tahun seribu enam ratus lima puluh, hukuman jauh lebih berat daripada sekarang. Kesalahan kecil pun, bisa dihukum cambuk di depan umum.", "pauseAfter": 0.45 },
+        { "id": "s8c", "text": "Pelanggar bisa dipasung di alun-alun selama berjam-jam untuk dipermalukan. Pencuri bahkan bisa dihukum potong tangan.", "tts": "Pelanggar bisa dipasung di alun-alun selama berjam-jam, untuk dipermalukan. Pencuri bahkan bisa dihukum potong tangan.", "pauseAfter": 0.45 },
+        { "id": "s8d", "text": "Untuk kejahatan berat, atau orang yang dituduh sebagai penyihir, hukumannya adalah hukuman mati di depan orang banyak.", "tts": "Untuk kejahatan berat, atau orang yang dituduh sebagai penyihir, hukumannya adalah hukuman mati, di depan orang banyak.", "pauseAfter": 0.2 }
+      ]
+    },
+    {
+      "id": "s9",
+      "title": "Terbangun dari Mimpi",
+      "leadIn": 3.2,
+      "tail": 3.5,
+      "segments": [
+        { "id": "s9a", "text": "Kamu tersentak bangun. Napasmu terengah-engah.", "tts": "Kamu tersentak bangun. Napasmu terengah-engah.", "pauseAfter": 0.7 },
+        { "id": "s9b", "text": "Kamar, HP, dan tahun 2026… semuanya masih di sini.", "tts": "Kamar, hape, dan tahun dua ribu dua puluh enam. Semuanya masih di sini.", "pauseAfter": 0.6 },
+        { "id": "s9c", "text": "Ternyata… semua itu hanya mimpi.", "tts": "Ternyata, semua itu, hanya mimpi.", "pauseAfter": 0.8 },
+        { "id": "s9d", "text": "Jadi, kalau kamu bisa kembali ke tahun 1650… apakah kamu berani?", "tts": "Jadi, kalau kamu bisa kembali ke tahun seribu enam ratus lima puluh, apakah kamu berani?", "pauseAfter": 0.2 }
+      ]
+    }
+  ]
+}

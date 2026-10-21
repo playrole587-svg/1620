@@ -1,0 +1,78 @@
+{
+  "fps": 60,
+  "totalSeconds": 256.067,
+  "scenes": [
+    {
+      "id": "s1",
+      "title": "Terbangun di Tahun 1650",
+      "start": 0.0,
+      "end": 31.0,
+      "startFrame": 0,
+      "durationFrames": 1860
+    },
+    {
+      "id": "s2",
+      "title": "Tidak Ada Teknologi Modern",
+      "start": 31.0,
+      "end": 58.75,
+      "startFrame": 1860,
+      "durationFrames": 1665
+    },
+    {
+      "id": "s3",
+      "title": "Kamu Bisa Jadi Menarik Perhatian",
+      "start": 58.75,
+      "end": 80.85,
+      "startFrame": 3525,
+      "durationFrames": 1326
+    },
+    {
+      "id": "s4",
+      "title": "Bahasa Bisa Jadi Masalah",
+      "start": 80.85,
+      "end": 109.85,
+      "startFrame": 4851,
+      "durationFrames": 1740
+    },
+    {
+      "id": "s5",
+      "title": "Kondisi Hidup Lebih Keras",
+      "start": 109.85,
+      "end": 135.583,
+      "startFrame": 6591,
+      "durationFrames": 1544
+    },
+    {
+      "id": "s6",
+      "title": "Kamu Harus Bekerja untuk Hidup",
+      "start": 135.583,
+      "end": 166.833,
+      "startFrame": 8135,
+      "durationFrames": 1875
+    },
+    {
+      "id": "s7",
+      "title": "Harga Barang dan Kehidupan Harian",
+      "start": 166.833,
+      "end": 200.367,
+      "startFrame": 10010,
+      "durationFrames": 2012
+    },
+    {
+      "id": "s8",
+      "title": "Hukuman yang Sangat Keras",
+      "start": 200.367,
+      "end": 231.033,
+      "startFrame": 12022,
+      "durationFrames": 1840
+    },
+    {
+      "id": "s9",
+      "title": "Terbangun dari Mimpi",
+      "start": 231.033,
+      "end": 256.067,
+      "startFrame": 13862,
+      "durationFrames": 1502
+    }
+  ]
+}

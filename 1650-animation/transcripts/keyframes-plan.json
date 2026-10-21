@@ -1,0 +1,1977 @@
+{
+ "description": "Keyframe plan for every scene. Each track lists start, intermediate and end keyframes; the Remotion scenes interpolate these exact keys (src/animations/keyframes.ts). camera = virtual camera in reference-image pixels (x, y = centre, zoom); boy = character rig parameters.",
+ "fps": 60,
+ "scenes": [
+  {
+   "id": "s1",
+   "title": "Terbangun di Tahun 1650",
+   "startFrame": 0,
+   "endFrame": 1860,
+   "durationFrames": 1860,
+   "narration": [
+    {
+     "id": "s1a",
+     "startFrame": 156,
+     "endFrame": 363
+    },
+    {
+     "id": "s1b",
+     "startFrame": 405,
+     "endFrame": 567
+    },
+    {
+     "id": "s1c",
+     "startFrame": 588,
+     "endFrame": 969
+    },
+    {
+     "id": "s1d",
+     "startFrame": 1005,
+     "endFrame": 1421
+    },
+    {
+     "id": "s1e",
+     "startFrame": 1457,
+     "endFrame": 1770
+    }
+   ],
+   "camera": [
+    {
+     "frame": 0,
+     "globalFrame": 0,
+     "t": 0,
+     "x": 690,
+     "y": 640,
+     "zoom": 2.1
+    },
+    {
+     "frame": 156,
+     "globalFrame": 156,
+     "t": 2.6,
+     "x": 700,
+     "y": 630,
+     "zoom": 1.95,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 393,
+     "globalFrame": 393,
+     "t": 6.555,
+     "x": 720,
+     "y": 620,
+     "zoom": 1.8,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 501,
+     "globalFrame": 501,
+     "t": 8.355,
+     "x": 1250,
+     "y": 560,
+     "zoom": 1.55,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 708,
+     "globalFrame": 708,
+     "t": 11.796,
+     "x": 1290,
+     "y": 430,
+     "zoom": 1.75,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 888,
+     "globalFrame": 888,
+     "t": 14.796,
+     "x": 1230,
+     "y": 600,
+     "zoom": 1.6,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1029,
+     "globalFrame": 1029,
+     "t": 17.145,
+     "x": 700,
+     "y": 640,
+     "zoom": 1.75,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1297,
+     "globalFrame": 1297,
+     "t": 21.614,
+     "x": 700,
+     "y": 640,
+     "zoom": 2,
+     "ease": "outExpo"
+    },
+    {
+     "frame": 1439,
+     "globalFrame": 1439,
+     "t": 23.982,
+     "x": 700,
+     "y": 630,
+     "zoom": 1.95,
+     "ease": "linear"
+    },
+    {
+     "frame": 1517,
+     "globalFrame": 1517,
+     "t": 25.282,
+     "x": 768,
+     "y": 512,
+     "zoom": 1.04,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1860,
+     "globalFrame": 1860,
+     "t": 31,
+     "x": 768,
+     "y": 512,
+     "zoom": 1.1,
+     "ease": "linear"
+    }
+   ],
+   "boy": [
+    {
+     "frame": 0,
+     "globalFrame": 0,
+     "t": 0,
+     "eyeOpen": 0,
+     "headTilt": 14,
+     "lean": -6,
+     "mouth": "flat",
+     "mouthOpen": 1,
+     "lookX": 0,
+     "lookY": 0,
+     "headFlip": 1,
+     "eyeWide": 0,
+     "sweat": 0,
+     "pale": 0,
+     "armFS": 18,
+     "armFE": 30
+    },
+    {
+     "frame": 60,
+     "globalFrame": 60,
+     "t": 1,
+     "eyeOpen": 0.45,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 87,
+     "globalFrame": 87,
+     "t": 1.45,
+     "eyeOpen": 0.05
+    },
+    {
+     "frame": 144,
+     "globalFrame": 144,
+     "t": 2.4,
+     "eyeOpen": 1,
+     "headTilt": 4,
+     "lean": 0,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 174,
+     "globalFrame": 174,
+     "t": 2.9,
+     "mouth": "o",
+     "lookX": 0.6
+    },
+    {
+     "frame": 240,
+     "globalFrame": 240,
+     "t": 4,
+     "headFlip": 1,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 264,
+     "globalFrame": 264,
+     "t": 4.4,
+     "headFlip": -1,
+     "lookX": 0.8,
+     "headTilt": -4,
+     "ease": "inOutBack"
+    },
+    {
+     "frame": 330,
+     "globalFrame": 330,
+     "t": 5.5,
+     "headFlip": -1
+    },
+    {
+     "frame": 354,
+     "globalFrame": 354,
+     "t": 5.9,
+     "headFlip": 1,
+     "headTilt": 6,
+     "ease": "inOutBack"
+    },
+    {
+     "frame": 405,
+     "globalFrame": 405,
+     "t": 6.755,
+     "lookX": 1,
+     "lookY": -0.2,
+     "mouth": "open",
+     "mouthOpen": 0.4
+    },
+    {
+     "frame": 588,
+     "globalFrame": 588,
+     "t": 9.796,
+     "lookY": -0.6,
+     "headTilt": -6
+    },
+    {
+     "frame": 993,
+     "globalFrame": 993,
+     "t": 16.545,
+     "lookY": 0,
+     "headTilt": 0,
+     "mouth": "o",
+     "eyeWide": 0,
+     "sweat": 0,
+     "armFS": 18,
+     "armFE": 30
+    },
+    {
+     "frame": 1138,
+     "globalFrame": 1138,
+     "t": 18.964000000000002,
+     "eyeWide": 0.4,
+     "sweat": 0.6
+    },
+    {
+     "frame": 1294,
+     "globalFrame": 1294,
+     "t": 21.564,
+     "eyeWide": 0.4,
+     "mouth": "o",
+     "pale": 0,
+     "lean": 0,
+     "headTilt": 0,
+     "armFS": 18,
+     "armFE": 30
+    },
+    {
+     "frame": 1303,
+     "globalFrame": 1303,
+     "t": 21.714000000000002,
+     "eyeWide": 1,
+     "mouth": "shout",
+     "mouthOpen": 1,
+     "sweat": 1,
+     "pale": 1,
+     "headTilt": -8,
+     "lean": -10,
+     "armFS": 70,
+     "armFE": 70,
+     "ease": "outBack"
+    },
+    {
+     "frame": 1457,
+     "globalFrame": 1457,
+     "t": 24.282,
+     "eyeWide": 0.8,
+     "mouth": "open",
+     "mouthOpen": 0.7,
+     "headTilt": -4,
+     "lean": -6,
+     "armFS": 40,
+     "armFE": 60
+    },
+    {
+     "frame": 1860,
+     "globalFrame": 1860,
+     "t": 31,
+     "eyeWide": 0.8
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Tidak Ada Teknologi Modern",
+   "startFrame": 1860,
+   "endFrame": 3525,
+   "durationFrames": 1665,
+   "narration": [
+    {
+     "id": "s2a",
+     "startFrame": 1920,
+     "endFrame": 2095
+    },
+    {
+     "id": "s2b",
+     "startFrame": 2125,
+     "endFrame": 2379
+    },
+    {
+     "id": "s2c",
+     "startFrame": 2409,
+     "endFrame": 2917
+    },
+    {
+     "id": "s2d",
+     "startFrame": 2944,
+     "endFrame": 3453
+    }
+   ],
+   "camera": [
+    {
+     "frame": 0,
+     "globalFrame": 1860,
+     "t": 0,
+     "x": 520,
+     "y": 330,
+     "zoom": 1.32
+    },
+    {
+     "frame": 235,
+     "globalFrame": 2095,
+     "t": 3.9239999999999995,
+     "x": 500,
+     "y": 360,
+     "zoom": 1.34,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 247,
+     "globalFrame": 2107,
+     "t": 4.124,
+     "x": 500,
+     "y": 560,
+     "zoom": 1.38,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 301,
+     "globalFrame": 2161,
+     "t": 5.023999999999999,
+     "x": 470,
+     "y": 640,
+     "zoom": 1.7,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 537,
+     "globalFrame": 2397,
+     "t": 8.947,
+     "x": 480,
+     "y": 630,
+     "zoom": 1.72,
+     "ease": "linear"
+    },
+    {
+     "frame": 591,
+     "globalFrame": 2451,
+     "t": 9.846999999999998,
+     "x": 1170,
+     "y": 430,
+     "zoom": 1.6,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1066,
+     "globalFrame": 2926,
+     "t": 17.764,
+     "x": 1180,
+     "y": 450,
+     "zoom": 1.66,
+     "ease": "linear"
+    },
+    {
+     "frame": 1138,
+     "globalFrame": 2998,
+     "t": 18.964,
+     "x": 860,
+     "y": 640,
+     "zoom": 1.18,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1668,
+     "globalFrame": 3528,
+     "t": 27.8,
+     "x": 820,
+     "y": 620,
+     "zoom": 1.24,
+     "ease": "linear"
+    }
+   ],
+   "boy": [
+    {
+     "frame": 0,
+     "globalFrame": 1860,
+     "t": 0,
+     "mouth": "o",
+     "mouthOpen": 0.6,
+     "lookX": 0.6,
+     "lookY": 0,
+     "headTilt": 0,
+     "eyeWide": 0.3,
+     "sweat": 0,
+     "brow": 0,
+     "armFS": 6,
+     "armFE": 12,
+     "phoneGlow": 0
+    },
+    {
+     "frame": 259,
+     "globalFrame": 2119,
+     "t": 4.324,
+     "armFS": 6,
+     "armFE": 12
+    },
+    {
+     "frame": 295,
+     "globalFrame": 2155,
+     "t": 4.9239999999999995,
+     "armFS": 30,
+     "armFE": 95,
+     "lookY": 0.7,
+     "headTilt": 12,
+     "mouth": "closed",
+     "phoneGlow": 1,
+     "ease": "outBack"
+    },
+    {
+     "frame": 362,
+     "globalFrame": 2222,
+     "t": 6.026000000000003,
+     "mouth": "o",
+     "eyeWide": 0.6,
+     "brow": 1
+    },
+    {
+     "frame": 475,
+     "globalFrame": 2335,
+     "t": 7.918999999999997,
+     "sweat": 1,
+     "mouth": "wavy",
+     "phoneGlow": 0
+    },
+    {
+     "frame": 531,
+     "globalFrame": 2391,
+     "t": 8.846999999999998,
+     "armFS": 30,
+     "armFE": 95,
+     "headTilt": 12,
+     "lookY": 0.7
+    },
+    {
+     "frame": 567,
+     "globalFrame": 2427,
+     "t": 9.447,
+     "armFS": 8,
+     "armFE": 14,
+     "headTilt": -2,
+     "lookY": -0.2,
+     "lookX": 1,
+     "mouth": "open",
+     "mouthOpen": 0.5,
+     "eyeWide": 0.8,
+     "brow": 1
+    },
+    {
+     "frame": 1084,
+     "globalFrame": 2944,
+     "t": 18.064,
+     "mouth": "o",
+     "eyeWide": 0.3,
+     "sweat": 0.6,
+     "brow": 0.5
+    },
+    {
+     "frame": 1668,
+     "globalFrame": 3528,
+     "t": 27.8,
+     "mouth": "o"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Kamu Bisa Jadi Menarik Perhatian",
+   "startFrame": 3525,
+   "endFrame": 4851,
+   "durationFrames": 1326,
+   "narration": [
+    {
+     "id": "s3a",
+     "startFrame": 3585,
+     "endFrame": 3786
+    },
+    {
+     "id": "s3b",
+     "startFrame": 3816,
+     "endFrame": 4230
+    },
+    {
+     "id": "s3c",
+     "startFrame": 4257,
+     "endFrame": 4423
+    },
+    {
+     "id": "s3d",
+     "startFrame": 4450,
+     "endFrame": 4779
+    }
+   ],
+   "camera": [
+    {
+     "frame": 0,
+     "globalFrame": 3525,
+     "t": 0,
+     "x": 768,
+     "y": 390,
+     "zoom": 1.12
+    },
+    {
+     "frame": 261,
+     "globalFrame": 3786,
+     "t": 4.347000000000001,
+     "x": 740,
+     "y": 420,
+     "zoom": 1.16,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 327,
+     "globalFrame": 3852,
+     "t": 5.447000000000001,
+     "x": 640,
+     "y": 680,
+     "zoom": 1.5,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 720,
+     "globalFrame": 4245,
+     "t": 11.995999999999999,
+     "x": 640,
+     "y": 690,
+     "zoom": 1.55,
+     "ease": "linear"
+    },
+    {
+     "frame": 780,
+     "globalFrame": 4305,
+     "t": 12.995999999999999,
+     "x": 300,
+     "y": 560,
+     "zoom": 1.45,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 913,
+     "globalFrame": 4438,
+     "t": 15.223000000000003,
+     "x": 1150,
+     "y": 560,
+     "zoom": 1.42,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1197,
+     "globalFrame": 4722,
+     "t": 19.943,
+     "x": 640,
+     "y": 560,
+     "zoom": 1.4,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1227,
+     "globalFrame": 4752,
+     "t": 20.443,
+     "x": 630,
+     "y": 540,
+     "zoom": 1.7,
+     "ease": "outExpo"
+    },
+    {
+     "frame": 1326,
+     "globalFrame": 4851,
+     "t": 22.1,
+     "x": 630,
+     "y": 540,
+     "zoom": 1.76,
+     "ease": "linear"
+    }
+   ],
+   "boy": [
+    {
+     "frame": 0,
+     "globalFrame": 3525,
+     "t": 0,
+     "armFS": -18,
+     "armFE": 150,
+     "armBS": 24,
+     "armBE": 128,
+     "mouth": "open",
+     "mouthOpen": 0.6,
+     "eyeWide": 0.5,
+     "sweat": 1,
+     "lookX": 0,
+     "lookY": 0,
+     "headTilt": 0,
+     "headFlip": 1,
+     "brow": 1,
+     "bob": 0,
+     "scale": 0.9,
+     "x": 605,
+     "pale": 0
+    },
+    {
+     "frame": 72,
+     "globalFrame": 3597,
+     "t": 1.2,
+     "lookX": -1,
+     "headFlip": 1
+    },
+    {
+     "frame": 102,
+     "globalFrame": 3627,
+     "t": 1.7,
+     "headFlip": -1,
+     "ease": "inOutBack"
+    },
+    {
+     "frame": 180,
+     "globalFrame": 3705,
+     "t": 3,
+     "headFlip": -1
+    },
+    {
+     "frame": 204,
+     "globalFrame": 3729,
+     "t": 3.4,
+     "headFlip": 1,
+     "lookX": 1,
+     "ease": "inOutBack"
+    },
+    {
+     "frame": 291,
+     "globalFrame": 3816,
+     "t": 4.847000000000001,
+     "mouth": "wavy",
+     "eyeWide": 0.2,
+     "lookY": 0.6,
+     "headTilt": 8
+    },
+    {
+     "frame": 403,
+     "globalFrame": 3928,
+     "t": 6.714000000000004,
+     "lookY": 0.6,
+     "headTilt": 8
+    },
+    {
+     "frame": 732,
+     "globalFrame": 4257,
+     "t": 12.195999999999998,
+     "lookY": 0,
+     "headTilt": -4,
+     "mouth": "o",
+     "eyeWide": 0.6
+    },
+    {
+     "frame": 943,
+     "globalFrame": 4468,
+     "t": 15.723000000000003,
+     "scale": 0.9,
+     "x": 605,
+     "bob": 0
+    },
+    {
+     "frame": 967,
+     "globalFrame": 4492,
+     "t": 16.123,
+     "scale": 0.875,
+     "x": 595,
+     "bob": -14,
+     "ease": "outQuad"
+    },
+    {
+     "frame": 985,
+     "globalFrame": 4510,
+     "t": 16.423000000000002,
+     "scale": 0.86,
+     "x": 590,
+     "bob": 4,
+     "ease": "inQuad"
+    },
+    {
+     "frame": 1206,
+     "globalFrame": 4731,
+     "t": 20.093,
+     "mouth": "o",
+     "eyeWide": 0.6,
+     "pale": 0
+    },
+    {
+     "frame": 1218,
+     "globalFrame": 4743,
+     "t": 20.293,
+     "mouth": "shout",
+     "mouthOpen": 1,
+     "eyeWide": 1,
+     "pale": 1,
+     "ease": "outBack"
+    },
+    {
+     "frame": 1326,
+     "globalFrame": 4851,
+     "t": 22.1,
+     "mouth": "shout"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "Bahasa Bisa Jadi Masalah",
+   "startFrame": 4851,
+   "endFrame": 6591,
+   "durationFrames": 1740,
+   "narration": [
+    {
+     "id": "s4a",
+     "startFrame": 4911,
+     "endFrame": 5079
+    },
+    {
+     "id": "s4b",
+     "startFrame": 5109,
+     "endFrame": 5346
+    },
+    {
+     "id": "s4c",
+     "startFrame": 5376,
+     "endFrame": 6061
+    },
+    {
+     "id": "s4d",
+     "startFrame": 6088,
+     "endFrame": 6519
+    }
+   ],
+   "camera": [
+    {
+     "frame": 0,
+     "globalFrame": 4851,
+     "t": 0,
+     "x": 640,
+     "y": 380,
+     "zoom": 1.2
+    },
+    {
+     "frame": 228,
+     "globalFrame": 5079,
+     "t": 3.807000000000002,
+     "x": 630,
+     "y": 420,
+     "zoom": 1.24,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 234,
+     "globalFrame": 5085,
+     "t": 3.9070000000000022,
+     "x": 620,
+     "y": 560,
+     "zoom": 1.28,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 288,
+     "globalFrame": 5139,
+     "t": 4.807000000000002,
+     "x": 660,
+     "y": 560,
+     "zoom": 1.5,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 735,
+     "globalFrame": 5586,
+     "t": 12.253,
+     "x": 640,
+     "y": 580,
+     "zoom": 1.45,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 1002,
+     "globalFrame": 5853,
+     "t": 16.700000000000003,
+     "x": 1270,
+     "y": 720,
+     "zoom": 1.6,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1233,
+     "globalFrame": 6084,
+     "t": 20.546000000000006,
+     "x": 1290,
+     "y": 740,
+     "zoom": 1.62,
+     "ease": "linear"
+    },
+    {
+     "frame": 1273,
+     "globalFrame": 6124,
+     "t": 21.21200000000001,
+     "x": 780,
+     "y": 600,
+     "zoom": 1.16,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1740,
+     "globalFrame": 6591,
+     "t": 29,
+     "x": 760,
+     "y": 610,
+     "zoom": 1.22,
+     "ease": "linear"
+    }
+   ],
+   "boy": [
+    {
+     "frame": 0,
+     "globalFrame": 4851,
+     "t": 0,
+     "armFS": 34,
+     "armFE": 62,
+     "armBS": 52,
+     "armBE": 56,
+     "mouth": "o",
+     "mouthOpen": 0.5,
+     "eyeWide": 0.3,
+     "sweat": 1,
+     "lookX": 1,
+     "lookY": 0,
+     "headTilt": 0,
+     "brow": 1
+    },
+    {
+     "frame": 258,
+     "globalFrame": 5109,
+     "t": 4.307000000000002,
+     "lookX": 1,
+     "headTilt": -6,
+     "mouth": "o"
+    },
+    {
+     "frame": 336,
+     "globalFrame": 5187,
+     "t": 5.607000000000002,
+     "headTilt": 10,
+     "mouth": "wavy",
+     "eyeWide": 0.7,
+     "ease": "outBack"
+    },
+    {
+     "frame": 525,
+     "globalFrame": 5376,
+     "t": 8.753,
+     "lookY": 0.7,
+     "headTilt": 12,
+     "lookX": 0.4,
+     "mouth": "wavy"
+    },
+    {
+     "frame": 705,
+     "globalFrame": 5556,
+     "t": 11.753,
+     "armFS": 40,
+     "armFE": 52,
+     "headTilt": 14
+    },
+    {
+     "frame": 825,
+     "globalFrame": 5676,
+     "t": 13.753,
+     "armFS": 30,
+     "armFE": 70,
+     "headTilt": 6
+    },
+    {
+     "frame": 1237,
+     "globalFrame": 6088,
+     "t": 20.61200000000001,
+     "lookY": 0,
+     "lookX": 1,
+     "headTilt": -4,
+     "mouth": "open",
+     "mouthOpen": 0.6
+    },
+    {
+     "frame": 1740,
+     "globalFrame": 6591,
+     "t": 29,
+     "mouth": "open"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "Kondisi Hidup Lebih Keras",
+   "startFrame": 6591,
+   "endFrame": 8135,
+   "durationFrames": 1544,
+   "narration": [
+    {
+     "id": "s5a",
+     "startFrame": 6651,
+     "endFrame": 6837
+    },
+    {
+     "id": "s5b",
+     "startFrame": 6867,
+     "endFrame": 7266
+    },
+    {
+     "id": "s5c",
+     "startFrame": 7293,
+     "endFrame": 7690
+    },
+    {
+     "id": "s5d",
+     "startFrame": 7717,
+     "endFrame": 8063
+    }
+   ],
+   "camera": [
+    {
+     "frame": 0,
+     "globalFrame": 6591,
+     "t": 0,
+     "x": 420,
+     "y": 345,
+     "zoom": 1.28
+    },
+    {
+     "frame": 246,
+     "globalFrame": 6837,
+     "t": 4.106999999999999,
+     "x": 430,
+     "y": 380,
+     "zoom": 1.3,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 264,
+     "globalFrame": 6855,
+     "t": 4.406999999999999,
+     "x": 440,
+     "y": 540,
+     "zoom": 1.3,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 468,
+     "globalFrame": 7059,
+     "t": 7.8069999999999995,
+     "x": 600,
+     "y": 640,
+     "zoom": 1.55,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 678,
+     "globalFrame": 7269,
+     "t": 11.307000000000007,
+     "x": 640,
+     "y": 660,
+     "zoom": 1.6,
+     "ease": "linear"
+    },
+    {
+     "frame": 750,
+     "globalFrame": 7341,
+     "t": 12.507000000000009,
+     "x": 1180,
+     "y": 600,
+     "zoom": 1.5,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1114,
+     "globalFrame": 7705,
+     "t": 18.559000000000015,
+     "x": 1200,
+     "y": 600,
+     "zoom": 1.55,
+     "ease": "linear"
+    },
+    {
+     "frame": 1186,
+     "globalFrame": 7777,
+     "t": 19.759000000000015,
+     "x": 768,
+     "y": 560,
+     "zoom": 1.1,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1548,
+     "globalFrame": 8139,
+     "t": 25.8,
+     "x": 740,
+     "y": 560,
+     "zoom": 1.16,
+     "ease": "linear"
+    }
+   ],
+   "boy": [
+    {
+     "frame": 0,
+     "globalFrame": 6591,
+     "t": 0,
+     "armFS": -16,
+     "armFE": 148,
+     "armBS": 22,
+     "armBE": 126,
+     "mouth": "open",
+     "mouthOpen": 0.7,
+     "eyeWide": 0.6,
+     "sweat": 1,
+     "lookX": 1,
+     "lookY": 0,
+     "headTilt": 0,
+     "brow": 1,
+     "pale": 0,
+     "eyeSquint": 0
+    },
+    {
+     "frame": 456,
+     "globalFrame": 7047,
+     "t": 7.606999999999999,
+     "mouth": "open",
+     "eyeWide": 0.6,
+     "eyeSquint": 0,
+     "headTilt": 0
+    },
+    {
+     "frame": 492,
+     "globalFrame": 7083,
+     "t": 8.206999999999999,
+     "mouth": "grit",
+     "eyeSquint": 1,
+     "headTilt": -10,
+     "lean": -4,
+     "ease": "outBack"
+    },
+    {
+     "frame": 684,
+     "globalFrame": 7275,
+     "t": 11.407000000000007,
+     "mouth": "grit",
+     "eyeSquint": 1,
+     "headTilt": -10
+    },
+    {
+     "frame": 720,
+     "globalFrame": 7311,
+     "t": 12.007000000000009,
+     "mouth": "o",
+     "eyeSquint": 0,
+     "eyeWide": 0.8,
+     "headTilt": 2,
+     "lean": 0,
+     "pale": 0.8
+    },
+    {
+     "frame": 1126,
+     "globalFrame": 7717,
+     "t": 18.759000000000015,
+     "mouth": "wavy",
+     "eyeWide": 0.4,
+     "pale": 0.4
+    },
+    {
+     "frame": 1548,
+     "globalFrame": 8139,
+     "t": 25.8,
+     "mouth": "wavy"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "Kamu Harus Bekerja untuk Hidup",
+   "startFrame": 8135,
+   "endFrame": 10010,
+   "durationFrames": 1875,
+   "narration": [
+    {
+     "id": "s6a",
+     "startFrame": 8195,
+     "endFrame": 8378
+    },
+    {
+     "id": "s6b",
+     "startFrame": 8408,
+     "endFrame": 8771
+    },
+    {
+     "id": "s6c",
+     "startFrame": 8798,
+     "endFrame": 9167
+    },
+    {
+     "id": "s6d",
+     "startFrame": 9188,
+     "endFrame": 9632
+    },
+    {
+     "id": "s6e",
+     "startFrame": 9659,
+     "endFrame": 9938
+    }
+   ],
+   "camera": [
+    {
+     "frame": 0,
+     "globalFrame": 8135,
+     "t": 0,
+     "x": 520,
+     "y": 325,
+     "zoom": 1.36
+    },
+    {
+     "frame": 243,
+     "globalFrame": 8378,
+     "t": 4.055000000000007,
+     "x": 540,
+     "y": 360,
+     "zoom": 1.38,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 291,
+     "globalFrame": 8426,
+     "t": 4.855000000000007,
+     "x": 560,
+     "y": 470,
+     "zoom": 1.4,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 423,
+     "globalFrame": 8558,
+     "t": 7.055000000000007,
+     "x": 1000,
+     "y": 450,
+     "zoom": 1.45,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 633,
+     "globalFrame": 8768,
+     "t": 10.554000000000002,
+     "x": 1060,
+     "y": 470,
+     "zoom": 1.42,
+     "ease": "linear"
+    },
+    {
+     "frame": 693,
+     "globalFrame": 8828,
+     "t": 11.554000000000002,
+     "x": 1000,
+     "y": 700,
+     "zoom": 1.22,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1506,
+     "globalFrame": 9641,
+     "t": 25.100000000000005,
+     "x": 1010,
+     "y": 705,
+     "zoom": 1.22,
+     "ease": "linear"
+    },
+    {
+     "frame": 1584,
+     "globalFrame": 9719,
+     "t": 26.400000000000006,
+     "x": 768,
+     "y": 560,
+     "zoom": 1.08,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1875,
+     "globalFrame": 10010,
+     "t": 31.25,
+     "x": 760,
+     "y": 560,
+     "zoom": 1.12,
+     "ease": "linear"
+    }
+   ],
+   "boy": [
+    {
+     "frame": 0,
+     "globalFrame": 8135,
+     "t": 0,
+     "armFS": -22,
+     "armFE": 160,
+     "armBS": 30,
+     "armBE": 150,
+     "mouth": "open",
+     "mouthOpen": 0.8,
+     "eyeWide": 0.4,
+     "sweat": 1,
+     "lookX": 1,
+     "headTilt": 4,
+     "walk": 0,
+     "walkAmt": 0.6,
+     "x": 330
+    },
+    {
+     "frame": 693,
+     "globalFrame": 8828,
+     "t": 11.554000000000002,
+     "x": 400,
+     "walk": 5.3999999999999995,
+     "ease": "linear"
+    },
+    {
+     "frame": 693,
+     "globalFrame": 8828,
+     "t": 11.554000000000002,
+     "mouth": "grit",
+     "eyeSquint": 1
+    },
+    {
+     "frame": 1053,
+     "globalFrame": 9188,
+     "t": 17.545999999999992,
+     "mouth": "grit",
+     "eyeSquint": 1,
+     "walkAmt": 0.6
+    },
+    {
+     "frame": 1524,
+     "globalFrame": 9659,
+     "t": 25.400000000000006,
+     "x": 430,
+     "walk": 9,
+     "mouth": "open",
+     "eyeSquint": 0,
+     "eyeWide": 0.6,
+     "walkAmt": 0.3,
+     "ease": "linear"
+    },
+    {
+     "frame": 1875,
+     "globalFrame": 10010,
+     "t": 31.25,
+     "x": 440,
+     "walk": 10.799999999999999,
+     "walkAmt": 0,
+     "mouth": "wavy"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "Harga Barang dan Kehidupan Harian",
+   "startFrame": 10010,
+   "endFrame": 12022,
+   "durationFrames": 2012,
+   "narration": [
+    {
+     "id": "s7a",
+     "startFrame": 10070,
+     "endFrame": 10301
+    },
+    {
+     "id": "s7b",
+     "startFrame": 10331,
+     "endFrame": 10653
+    },
+    {
+     "id": "s7c",
+     "startFrame": 10680,
+     "endFrame": 11173
+    },
+    {
+     "id": "s7d",
+     "startFrame": 11194,
+     "endFrame": 11659
+    },
+    {
+     "id": "s7e",
+     "startFrame": 11686,
+     "endFrame": 11950
+    }
+   ],
+   "camera": [
+    {
+     "frame": 0,
+     "globalFrame": 10010,
+     "t": 0,
+     "x": 560,
+     "y": 325,
+     "zoom": 1.36
+    },
+    {
+     "frame": 291,
+     "globalFrame": 10301,
+     "t": 4.8559999999999945,
+     "x": 580,
+     "y": 360,
+     "zoom": 1.4,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 357,
+     "globalFrame": 10367,
+     "t": 5.955999999999994,
+     "x": 640,
+     "y": 440,
+     "zoom": 1.5,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 646,
+     "globalFrame": 10656,
+     "t": 10.764000000000015,
+     "x": 650,
+     "y": 450,
+     "zoom": 1.5,
+     "ease": "linear"
+    },
+    {
+     "frame": 706,
+     "globalFrame": 10716,
+     "t": 11.764000000000015,
+     "x": 768,
+     "y": 715,
+     "zoom": 1.08,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1658,
+     "globalFrame": 11668,
+     "t": 27.630000000000006,
+     "x": 768,
+     "y": 715,
+     "zoom": 1.1,
+     "ease": "linear"
+    },
+    {
+     "frame": 1736,
+     "globalFrame": 11746,
+     "t": 28.930000000000007,
+     "x": 860,
+     "y": 470,
+     "zoom": 1.36,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 2010,
+     "globalFrame": 12020,
+     "t": 33.5,
+     "x": 880,
+     "y": 460,
+     "zoom": 1.42,
+     "ease": "linear"
+    }
+   ],
+   "boy": [
+    {
+     "frame": 0,
+     "globalFrame": 10010,
+     "t": 0,
+     "armFS": 20,
+     "armFE": 120,
+     "armBS": 18,
+     "armBE": 110,
+     "mouth": "open",
+     "mouthOpen": 0.6,
+     "eyeWide": 0.3,
+     "sweat": 0.6,
+     "lookX": 1,
+     "lookY": 0,
+     "headTilt": 0,
+     "brow": 0.5
+    },
+    {
+     "frame": 321,
+     "globalFrame": 10331,
+     "t": 5.3559999999999945,
+     "lookY": 0.5,
+     "headTilt": 8,
+     "mouth": "o"
+    },
+    {
+     "frame": 381,
+     "globalFrame": 10391,
+     "t": 6.3559999999999945,
+     "armFS": 34,
+     "armFE": 110,
+     "ease": "outBack"
+    },
+    {
+     "frame": 670,
+     "globalFrame": 10680,
+     "t": 11.164000000000016,
+     "lookY": 0.2,
+     "headTilt": 2,
+     "mouth": "smile",
+     "sweat": 0.2
+    },
+    {
+     "frame": 1398,
+     "globalFrame": 11408,
+     "t": 23.30700000000001,
+     "mouth": "smile",
+     "eyeWide": 0.2
+    },
+    {
+     "frame": 1416,
+     "globalFrame": 11426,
+     "t": 23.60700000000001,
+     "mouth": "shout",
+     "eyeWide": 1,
+     "sweat": 1,
+     "ease": "outBack"
+    },
+    {
+     "frame": 1676,
+     "globalFrame": 11686,
+     "t": 27.930000000000007,
+     "mouth": "wavy",
+     "eyeWide": 0.4,
+     "armFS": 20,
+     "armFE": 120
+    },
+    {
+     "frame": 2010,
+     "globalFrame": 12020,
+     "t": 33.5,
+     "mouth": "wavy"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "Hukuman yang Sangat Keras",
+   "startFrame": 12022,
+   "endFrame": 13862,
+   "durationFrames": 1840,
+   "narration": [
+    {
+     "id": "s8a",
+     "startFrame": 12094,
+     "endFrame": 12270
+    },
+    {
+     "id": "s8b",
+     "startFrame": 12306,
+     "endFrame": 12842
+    },
+    {
+     "id": "s8c",
+     "startFrame": 12869,
+     "endFrame": 13306
+    },
+    {
+     "id": "s8d",
+     "startFrame": 13333,
+     "endFrame": 13778
+    }
+   ],
+   "camera": [
+    {
+     "frame": 0,
+     "globalFrame": 12022,
+     "t": 0,
+     "x": 500,
+     "y": 330,
+     "zoom": 1.32
+    },
+    {
+     "frame": 248,
+     "globalFrame": 12270,
+     "t": 4.132000000000005,
+     "x": 540,
+     "y": 360,
+     "zoom": 1.33,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 266,
+     "globalFrame": 12288,
+     "t": 4.4319999999999995,
+     "x": 600,
+     "y": 420,
+     "zoom": 1.34,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 434,
+     "globalFrame": 12456,
+     "t": 7.231999999999999,
+     "x": 1120,
+     "y": 400,
+     "zoom": 1.45,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 693,
+     "globalFrame": 12715,
+     "t": 11.544000000000006,
+     "x": 1060,
+     "y": 420,
+     "zoom": 1.4,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 753,
+     "globalFrame": 12775,
+     "t": 12.544000000000006,
+     "x": 768,
+     "y": 610,
+     "zoom": 1.12,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1551,
+     "globalFrame": 13573,
+     "t": 25.844000000000023,
+     "x": 768,
+     "y": 610,
+     "zoom": 1.15,
+     "ease": "linear"
+    },
+    {
+     "frame": 1768,
+     "globalFrame": 13790,
+     "t": 29.46400000000001,
+     "x": 250,
+     "y": 400,
+     "zoom": 1.7,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 1840,
+     "globalFrame": 13862,
+     "t": 30.67,
+     "x": 240,
+     "y": 400,
+     "zoom": 1.85,
+     "ease": "linear"
+    }
+   ],
+   "boy": [
+    {
+     "frame": 0,
+     "globalFrame": 12022,
+     "t": 0,
+     "armFS": -16,
+     "armFE": 148,
+     "armBS": 22,
+     "armBE": 126,
+     "mouth": "open",
+     "mouthOpen": 0.7,
+     "eyeWide": 0.8,
+     "sweat": 1,
+     "lookX": 1,
+     "lookY": -0.2,
+     "headTilt": 0,
+     "brow": 1,
+     "pale": 0.6
+    },
+    {
+     "frame": 284,
+     "globalFrame": 12306,
+     "t": 4.731999999999999,
+     "mouth": "o",
+     "pale": 0.8
+    },
+    {
+     "frame": 847,
+     "globalFrame": 12869,
+     "t": 14.112000000000023,
+     "mouth": "wavy",
+     "eyeWide": 1
+    },
+    {
+     "frame": 1311,
+     "globalFrame": 13333,
+     "t": 21.844000000000023,
+     "mouth": "o",
+     "eyeWide": 1,
+     "pale": 1
+    },
+    {
+     "frame": 1756,
+     "globalFrame": 13778,
+     "t": 29.26400000000001,
+     "mouth": "shout",
+     "mouthOpen": 0.6,
+     "eyeWide": 1
+    },
+    {
+     "frame": 1840,
+     "globalFrame": 13862,
+     "t": 30.67,
+     "mouth": "shout"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "title": "Terbangun dari Mimpi",
+   "startFrame": 13862,
+   "endFrame": 15364,
+   "durationFrames": 1502,
+   "narration": [
+    {
+     "id": "s9a",
+     "startFrame": 14054,
+     "endFrame": 14243
+    },
+    {
+     "id": "s9b",
+     "startFrame": 14285,
+     "endFrame": 14588
+    },
+    {
+     "id": "s9c",
+     "startFrame": 14624,
+     "endFrame": 14772
+    },
+    {
+     "id": "s9d",
+     "startFrame": 14820,
+     "endFrame": 15142
+    }
+   ],
+   "camera": [
+    {
+     "frame": 0,
+     "globalFrame": 13862,
+     "t": 0,
+     "x": 620,
+     "y": 600,
+     "zoom": 1.55
+    },
+    {
+     "frame": 81,
+     "globalFrame": 13943,
+     "t": 1.35,
+     "x": 620,
+     "y": 600,
+     "zoom": 1.55
+    },
+    {
+     "frame": 96,
+     "globalFrame": 13958,
+     "t": 1.6,
+     "x": 660,
+     "y": 520,
+     "zoom": 1.45,
+     "ease": "outBack"
+    },
+    {
+     "frame": 132,
+     "globalFrame": 13994,
+     "t": 2.2,
+     "x": 900,
+     "y": 560,
+     "zoom": 1.35,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 222,
+     "globalFrame": 14084,
+     "t": 3.700000000000017,
+     "x": 700,
+     "y": 520,
+     "zoom": 1.5,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 439,
+     "globalFrame": 14301,
+     "t": 7.316000000000014,
+     "x": 720,
+     "y": 540,
+     "zoom": 1.45,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 481,
+     "globalFrame": 14343,
+     "t": 8.016000000000014,
+     "x": 1100,
+     "y": 640,
+     "zoom": 1.55,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 539,
+     "globalFrame": 14401,
+     "t": 8.983000000000015,
+     "x": 900,
+     "y": 420,
+     "zoom": 1.4,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 756,
+     "globalFrame": 14618,
+     "t": 12.604000000000008,
+     "x": 700,
+     "y": 520,
+     "zoom": 1.5,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 958,
+     "globalFrame": 14820,
+     "t": 15.969999999999999,
+     "x": 720,
+     "y": 520,
+     "zoom": 1.42,
+     "ease": "linear"
+    },
+    {
+     "frame": 1382,
+     "globalFrame": 15244,
+     "t": 23.03,
+     "x": 960,
+     "y": 540,
+     "zoom": 1,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 1502,
+     "globalFrame": 15364,
+     "t": 25.03,
+     "x": 960,
+     "y": 540,
+     "zoom": 0.98,
+     "ease": "linear"
+    }
+   ],
+   "boy": [
+    {
+     "frame": 0,
+     "globalFrame": 13862,
+     "t": 0,
+     "lean": -78,
+     "eyeOpen": 0,
+     "mouth": "wavy",
+     "mouthOpen": 0.5,
+     "sweat": 1,
+     "eyeWide": 0,
+     "headTilt": 6,
+     "armFS": -10,
+     "armFE": 10,
+     "armBS": -10,
+     "armBE": 10,
+     "breathe": 1,
+     "brow": 1,
+     "lookX": 0,
+     "lookY": 0,
+     "eyeSquint": 0,
+     "headFlip": 1,
+     "pale": 0
+    },
+    {
+     "frame": 36,
+     "globalFrame": 13898,
+     "t": 0.6,
+     "headTilt": -8,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 60,
+     "globalFrame": 13922,
+     "t": 1,
+     "headTilt": 8,
+     "ease": "inOutSine"
+    },
+    {
+     "frame": 78,
+     "globalFrame": 13940,
+     "t": 1.3,
+     "lean": -78,
+     "eyeOpen": 0,
+     "headTilt": 0
+    },
+    {
+     "frame": 99,
+     "globalFrame": 13961,
+     "t": 1.6500000000000001,
+     "lean": 6,
+     "eyeOpen": 1,
+     "eyeWide": 1,
+     "mouth": "shout",
+     "mouthOpen": 1,
+     "armFS": 60,
+     "armFE": 40,
+     "armBS": 50,
+     "armBE": 40,
+     "breathe": 5,
+     "pale": 1,
+     "ease": "outBack"
+    },
+    {
+     "frame": 126,
+     "globalFrame": 13988,
+     "t": 2.1,
+     "lean": 10,
+     "armFS": 95,
+     "armFE": 5,
+     "handF": "open",
+     "lookX": 1,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 174,
+     "globalFrame": 14036,
+     "t": 2.9,
+     "lean": 2,
+     "armFS": 20,
+     "armFE": 30,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 192,
+     "globalFrame": 14054,
+     "t": 3.200000000000017,
+     "mouth": "open",
+     "mouthOpen": 0.6,
+     "breathe": 5,
+     "eyeWide": 0.8,
+     "pale": 0.5
+    },
+    {
+     "frame": 405,
+     "globalFrame": 14267,
+     "t": 6.747000000000026,
+     "armFS": 20,
+     "armFE": 30,
+     "armBS": 50,
+     "armBE": 40,
+     "lookX": 0
+    },
+    {
+     "frame": 441,
+     "globalFrame": 14303,
+     "t": 7.347000000000025,
+     "armFS": 158,
+     "armFE": 132,
+     "armBS": 150,
+     "armBE": 128,
+     "headTilt": 4,
+     "eyeWide": 1,
+     "mouth": "o",
+     "breathe": 3.5,
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 433,
+     "globalFrame": 14295,
+     "t": 7.2160000000000135,
+     "armFS": 158,
+     "armFE": 132,
+     "armBS": 150,
+     "armBE": 128
+    },
+    {
+     "frame": 457,
+     "globalFrame": 14319,
+     "t": 7.616000000000014,
+     "armFS": 30,
+     "armFE": 40,
+     "armBS": 40,
+     "armBE": 40,
+     "lookX": 1,
+     "headFlip": 1,
+     "mouth": "o",
+     "ease": "inOutCubic"
+    },
+    {
+     "frame": 527,
+     "globalFrame": 14389,
+     "t": 8.783000000000015,
+     "lookY": -0.6,
+     "headTilt": -8
+    },
+    {
+     "frame": 768,
+     "globalFrame": 14630,
+     "t": 12.80400000000001,
+     "eyeWide": 0.6,
+     "mouth": "o",
+     "eyeSquint": 0,
+     "breathe": 2.5,
+     "pale": 0,
+     "sweat": 0.6
+    },
+    {
+     "frame": 810,
+     "globalFrame": 14672,
+     "t": 13.504000000000008,
+     "eyeSquint": 1,
+     "mouth": "smile",
+     "lean": -6,
+     "headTilt": -10,
+     "breathe": 1,
+     "sweat": 0.2,
+     "brow": 0,
+     "lookY": 0,
+     "ease": "outCubic"
+    },
+    {
+     "frame": 958,
+     "globalFrame": 14820,
+     "t": 15.969999999999999,
+     "eyeSquint": 0,
+     "eyeWide": 0,
+     "mouth": "smile",
+     "lean": 0,
+     "headTilt": 4,
+     "lookX": -0.4,
+     "armFS": 10,
+     "armFE": 20
+    },
+    {
+     "frame": 1108,
+     "globalFrame": 14970,
+     "t": 18.47,
+     "mouth": "closed",
+     "headTilt": -6,
+     "lookX": -0.8,
+     "brow": -0.4
+    },
+    {
+     "frame": 1502,
+     "globalFrame": 15364,
+     "t": 25.03,
+     "mouth": "smile"
+    }
+   ]
+  }
+ ]
+}

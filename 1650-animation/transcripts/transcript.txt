@@ -1,0 +1,170 @@
+APA TERJADI JIKA KITA TERBANGUN DI TAHUN 1650?
+Transkripsi teks dari gambar referensi (references/scene01.png … scene08.png)
+==========================================================================
+
+Format:
+  [VERBATIM]  = teks persis seperti terlihat pada gambar
+  [KOREKSI]   = versi yang dipakai di video (ejaan/istilah diperbaiki, makna dipertahankan)
+  Catatan     = alasan koreksi
+
+Hanya 8 gambar referensi yang diterima (storyboard meminta 9).
+Adegan 9 ("Terbangun dari Mimpi") tidak memiliki gambar referensi dan
+dibuat sepenuhnya dari aset vektor original (kamar tidur 2026 + karakter yang sama).
+
+--------------------------------------------------------------------------
+ADEGAN 1 — references/scene01.png
+--------------------------------------------------------------------------
+Judul [VERBATIM]: Apa Terjadi Jika Kita Terbangun di Tahun 1650?
+Judul [KOREKSI]:  Apa Terjadi Jika Kita Terbangun di Tahun 1650?
+  Catatan: judul proyek dipertahankan apa adanya. Narasi memakai bentuk baku
+  "Apa yang terjadi jika ...".
+Elemen lain: tanda tanya "?" di atas kepala anak; bendera merah-putih-biru (Belanda/VOC)
+  di kapal; burung camar.
+
+--------------------------------------------------------------------------
+ADEGAN 2 — references/scene02.png
+--------------------------------------------------------------------------
+Judul [VERBATIM]: Tidak Ada Teknologi Modern
+  (tanpa nomor; di video diberi lencana "2." agar urutan 2–8 konsisten)
+Papan ikon: HP, laptop, Wi-Fi, gamepad, kamera, headphone — semuanya disilang merah.
+Kotak info [VERBATIM]:
+  Di tahun 1650, tidak ada HP, internet, listrik, komputer, kendaraan modern,
+  atau hiburan seperti sekarang. Untuk mendapatkan informasi, orang datang
+  langsung ke pasar, mendengar berita dari orang lain, atau membaca pengumuman
+  di tempat umum.
+Kotak info [KOREKSI]: sama (tidak ada kesalahan).
+
+--------------------------------------------------------------------------
+ADEGAN 3 — references/scene03.png
+--------------------------------------------------------------------------
+Judul [VERBATIM]: 3. Kamu Bisa Jadi Menarik Perhatian
+Kotak info [VERBATIM]:
+  Cara berpakaian, barang yang kamu bawa, dan perilaku kita akan terlihat
+  sangat aneh bagi orang-orang di tahun 1650, sehingga kita bisa menarik
+  perhatian, dianggap orang asing, atau bahkan dicurigai.
+Kotak info [KOREKSI]:
+  Cara berpakaian, barang yang kamu bawa, dan perilakumu akan terlihat
+  sangat aneh bagi orang-orang di tahun 1650, sehingga kamu bisa menarik
+  perhatian, dianggap orang asing, atau bahkan dicurigai.
+  Catatan: kata ganti "kamu/kita" diseragamkan menjadi "kamu".
+
+--------------------------------------------------------------------------
+ADEGAN 4 — references/scene04.png
+--------------------------------------------------------------------------
+Judul [VERBATIM]: 4. Bahasa Bisa Jadi Masalah
+Kotak info [VERBATIM]:
+  Di tahun 1650, setiap wilayah memiliki bahasa yang berbeda. Jika kamu tidak
+  mengerti bahasa daerah setempat, kamu akan kesulitan berkomunikasi untuk
+  membeli barang, bertanya arah, atau bahkan meminta bantuan.
+Kotak info [KOREKSI]: sama.
+Balon kata [VERBATIM]: "Wat zoek je?"  (Belanda: "Kamu cari apa?")
+                       "Hier, rechts!" (Belanda: "Di sini, ke kanan!")
+Papan tulis [VERBATIM]: Nederlands, Engels, Français, Deutsch
+  (Belanda, Inggris, Prancis, Jerman — ditulis dalam bahasa Belanda,
+   kecuali "Français" dan "Deutsch" dalam bahasa aslinya)
+
+--------------------------------------------------------------------------
+ADEGAN 5 — references/scene05.png
+--------------------------------------------------------------------------
+Judul [VERBATIM]: 5. Kondisi Hidup Lebih Keras
+Kotak info [VERBATIM]:
+  Kebersihan, kesehatan, dan makanan belum sebaik sekarang. Penyakit seperti
+  cacar, kolera, dan wabah lain lebih mudah menyebar, dan banyak orang
+  meninggal di usia muda. Hidup di tahun 1650 jauh lebih berisiko dan penuh
+  tantangan daripada sekarang.
+Kotak info [KOREKSI]:
+  Kebersihan, kesehatan, dan makanan belum sebaik sekarang. Penyakit seperti
+  cacar, disentri, dan wabah pes lebih mudah menyebar, dan banyak orang
+  meninggal di usia muda. Hidup di tahun 1650 jauh lebih berisiko dan penuh
+  tantangan daripada sekarang.
+  Catatan (akurasi sejarah): pandemi kolera global baru dimulai tahun 1817,
+  sehingga "kolera" diganti contoh yang tepat untuk abad ke-17
+  (disentri dan wabah pes). Makna kalimat tetap sama.
+
+--------------------------------------------------------------------------
+ADEGAN 6 — references/scene06.png
+--------------------------------------------------------------------------
+Judul [VERBATIM]: 6. Kamu Harus Bekerja untuk Hidup
+Kotak info [VERBATIM]:
+  Di tahun 1650, kebanyakan orang harus bekerja keras setiap hari untuk
+  mendapatkan makanan, tempat tinggal, dan kebutuhan lainnya. Tidak ada gaji
+  tinggi seperti sekarang, dan pekerjaan biasanya berat serta berisiko.
+Kotak info [KOREKSI]: sama.
+Kartu [VERBATIM]:
+  Petani          — Bekerja di ladang sepanjang hari.
+  Pekerja Kasar   — Mengangkat barang berat di pelabuhan atau pasar.
+  Pembantu Rumah  — Melakukan pekerjaan rumah untuk keluarga kaya.
+  Pengrajin       — Membuat barang seperti besi, kayu, atau pakaian.
+  Tentara         — Bergabung dengan militer, berisiko tinggi di peperangan.
+Kartu [KOREKSI]:
+  Pengrajin       — Membuat barang dari besi, kayu, atau kain.
+  (lainnya sama)
+
+--------------------------------------------------------------------------
+ADEGAN 7 — references/scene07.png
+--------------------------------------------------------------------------
+Judul [VERBATIM]: 7. Harga Barang dan Kehidupan Harian
+Kotak info [VERBATIM]:
+  Di tahun 1650, harga barang berbeda dengan sekarang. Banyak orang harus
+  bekerja keras hanya untuk membeli makanan sederhana. Uang yang digunakan
+  bukan ringgit atau rupiah, melainkan koin emas, perak, atau tembaga.
+Kotak info [KOREKSI]: sama.
+Papan harga [VERBATIM]: Roti 1, Daging 3, Ikan 2, Sayur 1, Telur 1, Keju 2 (koin)
+Kartu [VERBATIM]:
+  Roti   — Makanan pokok bagi banyak orang. Harganya relatif murah.
+  Daging — Cukup mahal dan biasanya hanya orang kaya yang bisa membelinya.
+  Ikan   — Lebih mudah didapat di daerah dekat sungai atau laut.
+  Sayur  — Tersedia di pasar, harganya terjangkau, tapi tidak selalu ada setiap musim.
+  Telur  — Sumber protein yang lumayan murah.
+  Keju   — Makanan yang cukup mahal dan sering dikonsumsi oleh orang kaya.
+Kartu [KOREKSI]: sama.
+
+--------------------------------------------------------------------------
+ADEGAN 8 — references/scene08.png
+--------------------------------------------------------------------------
+Judul [VERBATIM]: 8. Hukuman yang Sangat Keras
+Kotak info [VERBATIM]:
+  Di tahun 1650, hukumannya jauh lebih keras daripada sekarang. Banyak
+  kesalahan, walaupun kecil, boleh dikenakan hukuman berat seperti penjara,
+  cambuk, potong anggota badan, atau bahkan hukuman mati di depan umum.
+Kotak info [KOREKSI]:
+  Di tahun 1650, hukuman jauh lebih keras daripada sekarang. Banyak
+  kesalahan, walaupun kecil, bisa dikenai hukuman berat seperti penjara,
+  cambuk, potong anggota badan, atau bahkan hukuman mati di depan umum.
+  Catatan: "boleh dikenakan" (ragam Melayu) -> "bisa dikenai" (bahasa Indonesia baku).
+Kartu [VERBATIM]:
+  Hukuman Mati — Banyak kesalahan seperti pembunuhan, pengkhianatan, atau
+                 kecurian besar boleh dihukum mati, biasanya dengan dipenggal
+                 di depan orang ramai.
+  Cambuk       — Kesalahan seperti mencuri barang kecil, melanggar peraturan,
+                 atau buat masalah boleh dikenakan cambuk di depan umum
+                 sehingga berdarah.
+  Kurtik       — Pesalah akan dikurung dalam alat kayu di tempat awam selama
+                 berjam-jam atau berhari-hari, sebagai hukuman dan untuk memalukan.
+  Potong Anggota Badan — Untuk kesalahan seperti mencuri, tangan boleh dipotong.
+                 Ada juga yang dipotong telinga, hidung, atau jari.
+  Digantung    — Kesalahan berat seperti pembunuhan atau pengkhianatan boleh
+                 digantung sampai mati di depan orang ramai.
+  Dibakar Hidup-hidup — Orang yang dituduh sebagai ahli sihir dihukum dengan
+                 dibakar hidup-hidup di tempat awam.
+Kartu [KOREKSI] (bahasa Indonesia baku, deskripsi tidak grafis):
+  Hukuman Mati — Kejahatan berat seperti pembunuhan, pengkhianatan, atau
+                 pencurian besar bisa dihukum mati di depan orang banyak.
+  Cambuk       — Mencuri barang kecil, melanggar aturan, atau membuat onar
+                 bisa dihukum cambuk di depan umum.
+  Pasung       — Pelanggar dikurung dalam alat kayu di tempat umum selama
+                 berjam-jam hingga berhari-hari untuk dipermalukan.
+  Potong Anggota Badan — Di beberapa tempat, pencuri bisa dihukum potong tangan.
+  Digantung    — Pembunuh atau pengkhianat bisa dihukum gantung di depan umum.
+  Dibakar      — Orang yang dituduh sebagai penyihir bisa dihukum bakar.
+  Catatan: "Kurtik" adalah salah ketik; alat kayu pengunci leher/tangan dalam
+  bahasa Indonesia disebut "pasung" (Inggris: pillory/stocks). Kata ragam
+  Melayu (boleh, kecurian, orang ramai, tempat awam, pesalah) diganti padanan
+  bahasa Indonesia. Gambar kartu yang menampilkan darah/luka TIDAK dipakai;
+  diganti ikon simbolis agar adegan tetap edukatif dan tidak grafis.
+
+--------------------------------------------------------------------------
+ADEGAN 9 — (tidak ada gambar referensi)
+--------------------------------------------------------------------------
+Judul: Terbangun dari Mimpi
+Teks layar: "2026" (jam alarm / kalender), "Cuma mimpi…?"

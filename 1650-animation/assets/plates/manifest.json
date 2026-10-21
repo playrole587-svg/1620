@@ -1,0 +1,449 @@
+{
+ "scene01": {
+  "size": [
+   1536,
+   1024
+  ],
+  "cutouts": {
+   "porter": {
+    "x": 1135,
+    "y": 585,
+    "w": 158,
+    "h": 311,
+    "pivot": [
+     1215,
+     890
+    ],
+    "src": "plates/scene01/cut_porter.png"
+   },
+   "gentleman": {
+    "x": 1365,
+    "y": 538,
+    "w": 136,
+    "h": 373,
+    "pivot": [
+     1420,
+     905
+    ],
+    "src": "plates/scene01/cut_gentleman.png"
+   },
+   "vendorLeft": {
+    "x": 140,
+    "y": 510,
+    "w": 86,
+    "h": 311,
+    "pivot": [
+     190,
+     815
+    ],
+    "src": "plates/scene01/cut_vendorLeft.png"
+   }
+  },
+  "crops": {},
+  "plate": "plates/scene01/plate.webp",
+  "sky": "plates/scene01/sky.webp"
+ },
+ "scene02": {
+  "size": [
+   1536,
+   1024
+  ],
+  "cutouts": {
+   "woman": {
+    "x": 585,
+    "y": 540,
+    "w": 138,
+    "h": 386,
+    "pivot": [
+     645,
+     920
+    ],
+    "src": "plates/scene02/cut_woman.png"
+   },
+   "hatman": {
+    "x": 722,
+    "y": 512,
+    "w": 119,
+    "h": 189,
+    "pivot": [
+     790,
+     700
+    ],
+    "src": "plates/scene02/cut_hatman.png"
+   }
+  },
+  "crops": {
+   "phone": {
+    "x": 992,
+    "y": 276,
+    "w": 108,
+    "h": 128,
+    "src": "plates/scene02/crop_phone.png"
+   },
+   "laptop": {
+    "x": 1094,
+    "y": 218,
+    "w": 214,
+    "h": 180,
+    "src": "plates/scene02/crop_laptop.png"
+   },
+   "wifi": {
+    "x": 1340,
+    "y": 220,
+    "w": 130,
+    "h": 140,
+    "src": "plates/scene02/crop_wifi.png"
+   },
+   "gamepad": {
+    "x": 942,
+    "y": 430,
+    "w": 158,
+    "h": 110,
+    "src": "plates/scene02/crop_gamepad.png"
+   },
+   "camera": {
+    "x": 1106,
+    "y": 425,
+    "w": 178,
+    "h": 125,
+    "src": "plates/scene02/crop_camera.png"
+   },
+   "headphones": {
+    "x": 1300,
+    "y": 372,
+    "w": 170,
+    "h": 173,
+    "src": "plates/scene02/crop_headphones.png"
+   }
+  },
+  "plate": "plates/scene02/plate.webp",
+  "sky": "plates/scene02/sky.webp"
+ },
+ "scene03": {
+  "size": [
+   1536,
+   1024
+  ],
+  "cutouts": {
+   "pointer": {
+    "x": 0,
+    "y": 270,
+    "w": 386,
+    "h": 755,
+    "pivot": [
+     120,
+     1024
+    ],
+    "src": "plates/scene03/cut_pointer.png"
+   },
+   "whisperer": {
+    "x": 235,
+    "y": 445,
+    "w": 186,
+    "h": 580,
+    "pivot": [
+     330,
+     1024
+    ],
+    "src": "plates/scene03/cut_whisperer.png"
+   },
+   "womanRight": {
+    "x": 915,
+    "y": 440,
+    "w": 341,
+    "h": 585,
+    "pivot": [
+     1085,
+     1024
+    ],
+    "src": "plates/scene03/cut_womanRight.png"
+   },
+   "mustache": {
+    "x": 1178,
+    "y": 455,
+    "w": 253,
+    "h": 570,
+    "pivot": [
+     1320,
+     1024
+    ],
+    "src": "plates/scene03/cut_mustache.png"
+   },
+   "centerMan": {
+    "x": 735,
+    "y": 505,
+    "w": 156,
+    "h": 496,
+    "pivot": [
+     815,
+     1000
+    ],
+    "src": "plates/scene03/cut_centerMan.png"
+   }
+  },
+  "crops": {},
+  "plate": "plates/scene03/plate.webp",
+  "sky": "plates/scene03/sky.webp"
+ },
+ "scene04": {
+  "size": [
+   1536,
+   1024
+  ],
+  "cutouts": {
+   "dutchman": {
+    "x": 660,
+    "y": 400,
+    "w": 521,
+    "h": 625,
+    "pivot": [
+     970,
+     1024
+    ],
+    "src": "plates/scene04/cut_dutchman.png"
+   },
+   "handLeft": {
+    "x": 645,
+    "y": 718,
+    "w": 146,
+    "h": 118,
+    "pivot": [
+     775,
+     790
+    ],
+    "src": "plates/scene04/cut_handLeft.png"
+   },
+   "handRight": {
+    "x": 862,
+    "y": 765,
+    "w": 149,
+    "h": 116,
+    "pivot": [
+     1000,
+     820
+    ],
+    "src": "plates/scene04/cut_handRight.png"
+   }
+  },
+  "crops": {},
+  "plate": "plates/scene04/plate.webp",
+  "sky": "plates/scene04/sky.webp"
+ },
+ "scene05": {
+  "size": [
+   1536,
+   1024
+  ],
+  "cutouts": {
+   "pourer": {
+    "x": 500,
+    "y": 515,
+    "w": 211,
+    "h": 286,
+    "pivot": [
+     565,
+     800
+    ],
+    "src": "plates/scene05/cut_pourer.png"
+   },
+   "nurse": {
+    "x": 990,
+    "y": 430,
+    "w": 331,
+    "h": 331,
+    "pivot": [
+     1050,
+     760
+    ],
+    "src": "plates/scene05/cut_nurse.png"
+   },
+   "patient": {
+    "x": 1290,
+    "y": 610,
+    "w": 171,
+    "h": 126,
+    "pivot": [
+     1380,
+     735
+    ],
+    "src": "plates/scene05/cut_patient.png"
+   }
+  },
+  "crops": {},
+  "plate": "plates/scene05/plate.webp",
+  "sky": "plates/scene05/sky.webp"
+ },
+ "scene06": {
+  "size": [
+   1536,
+   1024
+  ],
+  "cutouts": {
+   "chopper": {
+    "x": 590,
+    "y": 352,
+    "w": 316,
+    "h": 317,
+    "pivot": [
+     700,
+     650
+    ],
+    "src": "plates/scene06/cut_chopper.png"
+   },
+   "horseHead": {
+    "x": 1212,
+    "y": 398,
+    "w": 95,
+    "h": 131,
+    "pivot": [
+     1235,
+     520
+    ],
+    "src": "plates/scene06/cut_horseHead.png"
+   },
+   "basketWoman": {
+    "x": 1290,
+    "y": 345,
+    "w": 247,
+    "h": 680,
+    "pivot": [
+     1420,
+     1024
+    ],
+    "src": "plates/scene06/cut_basketWoman.png"
+   }
+  },
+  "crops": {
+   "petani": {
+    "x": 512,
+    "y": 650,
+    "w": 186,
+    "h": 186,
+    "src": "plates/scene06/crop_petani.png"
+   },
+   "pekerjaKasar": {
+    "x": 710,
+    "y": 655,
+    "w": 196,
+    "h": 196,
+    "src": "plates/scene06/crop_pekerjaKasar.png"
+   },
+   "pembantu": {
+    "x": 916,
+    "y": 668,
+    "w": 190,
+    "h": 190,
+    "src": "plates/scene06/crop_pembantu.png"
+   },
+   "pengrajin": {
+    "x": 1126,
+    "y": 676,
+    "w": 192,
+    "h": 192,
+    "src": "plates/scene06/crop_pengrajin.png"
+   },
+   "tentara": {
+    "x": 1330,
+    "y": 688,
+    "w": 182,
+    "h": 182,
+    "src": "plates/scene06/crop_tentara.png"
+   }
+  },
+  "plate": "plates/scene06/plate.webp",
+  "sky": "plates/scene06/sky.webp"
+ },
+ "scene07": {
+  "size": [
+   1536,
+   1024
+  ],
+  "cutouts": {
+   "merchant": {
+    "x": 790,
+    "y": 270,
+    "w": 441,
+    "h": 371,
+    "pivot": [
+     1000,
+     640
+    ],
+    "src": "plates/scene07/cut_merchant.png"
+   },
+   "merchantHand": {
+    "x": 672,
+    "y": 520,
+    "w": 184,
+    "h": 121,
+    "pivot": [
+     850,
+     560
+    ],
+    "src": "plates/scene07/cut_merchantHand.png"
+   }
+  },
+  "crops": {
+   "roti": {
+    "x": 46,
+    "y": 720,
+    "w": 234,
+    "h": 135,
+    "src": "plates/scene07/crop_roti.png"
+   },
+   "daging": {
+    "x": 292,
+    "y": 720,
+    "w": 234,
+    "h": 135,
+    "src": "plates/scene07/crop_daging.png"
+   },
+   "ikan": {
+    "x": 538,
+    "y": 720,
+    "w": 232,
+    "h": 135,
+    "src": "plates/scene07/crop_ikan.png"
+   },
+   "sayur": {
+    "x": 780,
+    "y": 720,
+    "w": 236,
+    "h": 135,
+    "src": "plates/scene07/crop_sayur.png"
+   },
+   "telur": {
+    "x": 1030,
+    "y": 720,
+    "w": 230,
+    "h": 135,
+    "src": "plates/scene07/crop_telur.png"
+   },
+   "keju": {
+    "x": 1270,
+    "y": 720,
+    "w": 230,
+    "h": 135,
+    "src": "plates/scene07/crop_keju.png"
+   },
+   "priceboard": {
+    "x": 1250,
+    "y": 248,
+    "w": 286,
+    "h": 340,
+    "src": "plates/scene07/crop_priceboard.png"
+   }
+  },
+  "plate": "plates/scene07/plate.webp",
+  "sky": "plates/scene07/sky.webp"
+ },
+ "scene08": {
+  "size": [
+   1536,
+   1024
+  ],
+  "cutouts": {},
+  "crops": {},
+  "plate": "plates/scene08/plate.webp",
+  "sky": "plates/scene08/sky.webp"
+ }
+}

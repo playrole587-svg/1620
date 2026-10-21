@@ -1,0 +1,8 @@
+node_modules/
+.cache/
+out/
+*.log
+# large render masters stay local; the compressed web copy is committed
+renders/*.mp4
+!renders/*-web.mp4
+assets/plates/*/_mask.png

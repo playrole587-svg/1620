@@ -1,0 +1,2810 @@
+[
+ {
+  "start": 2.6,
+  "end": 4.461,
+  "text": "Bayangkan kamu bangun tidur…",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Bayangkan",
+    "start": 2.6,
+    "end": 3.205
+   },
+   {
+    "w": "kamu",
+    "start": 3.205,
+    "end": 3.521
+   },
+   {
+    "w": "bangun",
+    "start": 3.521,
+    "end": 3.953
+   },
+   {
+    "w": "tidur…",
+    "start": 3.953,
+    "end": 4.501
+   }
+  ]
+ },
+ {
+  "start": 4.501,
+  "end": 6.306,
+  "text": "tapi bukan di kamarmu.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "tapi",
+    "start": 4.501,
+    "end": 4.817
+   },
+   {
+    "w": "bukan",
+    "start": 4.817,
+    "end": 5.192
+   },
+   {
+    "w": "di",
+    "start": 5.192,
+    "end": 5.393
+   },
+   {
+    "w": "kamarmu.",
+    "start": 5.393,
+    "end": 6.056
+   }
+  ]
+ },
+ {
+  "start": 6.755,
+  "end": 9.696,
+  "text": "Kamu terbangun di sebuah\npelabuhan yang ramai.",
+  "breakAt": 4,
+  "words": [
+   {
+    "w": "Kamu",
+    "start": 6.755,
+    "end": 7.037
+   },
+   {
+    "w": "terbangun",
+    "start": 7.037,
+    "end": 7.576
+   },
+   {
+    "w": "di",
+    "start": 7.576,
+    "end": 7.755
+   },
+   {
+    "w": "sebuah",
+    "start": 7.755,
+    "end": 8.139
+   },
+   {
+    "w": "pelabuhan",
+    "start": 8.139,
+    "end": 8.678
+   },
+   {
+    "w": "yang",
+    "start": 8.678,
+    "end": 8.959
+   },
+   {
+    "w": "ramai.",
+    "start": 8.959,
+    "end": 9.446
+   }
+  ]
+ },
+ {
+  "start": 9.796,
+  "end": 13.168,
+  "text": "Kapal-kapal kayu bersandar,\nbendera Belanda berkibar,",
+  "breakAt": 3,
+  "words": [
+   {
+    "w": "Kapal-kapal",
+    "start": 9.796,
+    "end": 10.496
+   },
+   {
+    "w": "kayu",
+    "start": 10.496,
+    "end": 10.803
+   },
+   {
+    "w": "bersandar,",
+    "start": 10.803,
+    "end": 11.558
+   },
+   {
+    "w": "bendera",
+    "start": 11.558,
+    "end": 12.034
+   },
+   {
+    "w": "Belanda",
+    "start": 12.034,
+    "end": 12.509
+   },
+   {
+    "w": "berkibar,",
+    "start": 12.509,
+    "end": 13.208
+   }
+  ]
+ },
+ {
+  "start": 13.208,
+  "end": 16.395,
+  "text": "dan orang-orang berpakaian\nkuno berlalu-lalang.",
+  "breakAt": 3,
+  "words": [
+   {
+    "w": "dan",
+    "start": 13.208,
+    "end": 13.46
+   },
+   {
+    "w": "orang-orang",
+    "start": 13.46,
+    "end": 14.159
+   },
+   {
+    "w": "berpakaian",
+    "start": 14.159,
+    "end": 14.803
+   },
+   {
+    "w": "kuno",
+    "start": 14.803,
+    "end": 15.11
+   },
+   {
+    "w": "berlalu-lalang.",
+    "start": 15.11,
+    "end": 16.145
+   }
+  ]
+ },
+ {
+  "start": 16.745,
+  "end": 20.874,
+  "text": "Lalu kamu sadar: ini bukan tahun 2026.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Lalu",
+    "start": 16.745,
+    "end": 17.095
+   },
+   {
+    "w": "kamu",
+    "start": 17.095,
+    "end": 17.445
+   },
+   {
+    "w": "sadar:",
+    "start": 17.445,
+    "end": 18.05
+   },
+   {
+    "w": "ini",
+    "start": 18.05,
+    "end": 18.336
+   },
+   {
+    "w": "bukan",
+    "start": 18.336,
+    "end": 18.75
+   },
+   {
+    "w": "tahun",
+    "start": 18.75,
+    "end": 19.164
+   },
+   {
+    "w": "2026.",
+    "start": 19.164,
+    "end": 20.914
+   }
+  ]
+ },
+ {
+  "start": 20.914,
+  "end": 23.932,
+  "text": "Ini tahun 1650!",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Ini",
+    "start": 20.914,
+    "end": 21.2
+   },
+   {
+    "w": "tahun",
+    "start": 21.2,
+    "end": 21.614
+   },
+   {
+    "w": "1650!",
+    "start": 21.614,
+    "end": 23.682
+   }
+  ]
+ },
+ {
+  "start": 24.282,
+  "end": 29.742,
+  "text": "Jadi, apa yang terjadi jika\nkita terbangun di tahun 1650?",
+  "breakAt": 5,
+  "words": [
+   {
+    "w": "Jadi,",
+    "start": 24.282,
+    "end": 24.769
+   },
+   {
+    "w": "apa",
+    "start": 24.769,
+    "end": 25.027
+   },
+   {
+    "w": "yang",
+    "start": 25.027,
+    "end": 25.341
+   },
+   {
+    "w": "terjadi",
+    "start": 25.341,
+    "end": 25.828
+   },
+   {
+    "w": "jika",
+    "start": 25.828,
+    "end": 26.143
+   },
+   {
+    "w": "kita",
+    "start": 26.143,
+    "end": 26.458
+   },
+   {
+    "w": "terbangun",
+    "start": 26.458,
+    "end": 27.059
+   },
+   {
+    "w": "di",
+    "start": 27.059,
+    "end": 27.259
+   },
+   {
+    "w": "tahun",
+    "start": 27.259,
+    "end": 27.631
+   },
+   {
+    "w": "1650?",
+    "start": 27.631,
+    "end": 29.492
+   }
+  ]
+ },
+ {
+  "start": 32.0,
+  "end": 35.174,
+  "text": "Nomor dua: tidak ada teknologi modern.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Nomor",
+    "start": 32.0,
+    "end": 32.413
+   },
+   {
+    "w": "dua:",
+    "start": 32.413,
+    "end": 32.89
+   },
+   {
+    "w": "tidak",
+    "start": 32.89,
+    "end": 33.303
+   },
+   {
+    "w": "ada",
+    "start": 33.303,
+    "end": 33.589
+   },
+   {
+    "w": "teknologi",
+    "start": 33.589,
+    "end": 34.256
+   },
+   {
+    "w": "modern.",
+    "start": 34.256,
+    "end": 34.924
+   }
+  ]
+ },
+ {
+  "start": 35.424,
+  "end": 36.986,
+  "text": "Coba keluarkan HP-mu…",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Coba",
+    "start": 35.424,
+    "end": 35.744
+   },
+   {
+    "w": "keluarkan",
+    "start": 35.744,
+    "end": 36.356
+   },
+   {
+    "w": "HP-mu…",
+    "start": 36.356,
+    "end": 37.026
+   }
+  ]
+ },
+ {
+  "start": 37.026,
+  "end": 38.238,
+  "text": "tidak ada sinyal.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "tidak",
+    "start": 37.026,
+    "end": 37.404
+   },
+   {
+    "w": "ada",
+    "start": 37.404,
+    "end": 37.667
+   },
+   {
+    "w": "sinyal.",
+    "start": 37.667,
+    "end": 38.278
+   }
+  ]
+ },
+ {
+  "start": 38.278,
+  "end": 39.897,
+  "text": "Tidak ada internet.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Tidak",
+    "start": 38.278,
+    "end": 38.657
+   },
+   {
+    "w": "ada",
+    "start": 38.657,
+    "end": 38.919
+   },
+   {
+    "w": "internet.",
+    "start": 38.919,
+    "end": 39.647
+   }
+  ]
+ },
+ {
+  "start": 40.147,
+  "end": 46.656,
+  "text": "Di tahun 1650, tidak ada HP, internet,\nlistrik, komputer, kendaraan modern,",
+  "breakAt": 7,
+  "words": [
+   {
+    "w": "Di",
+    "start": 40.147,
+    "end": 40.339
+   },
+   {
+    "w": "tahun",
+    "start": 40.339,
+    "end": 40.695
+   },
+   {
+    "w": "1650,",
+    "start": 40.695,
+    "end": 42.477
+   },
+   {
+    "w": "tidak",
+    "start": 42.477,
+    "end": 42.833
+   },
+   {
+    "w": "ada",
+    "start": 42.833,
+    "end": 43.079
+   },
+   {
+    "w": "HP,",
+    "start": 43.079,
+    "end": 43.545
+   },
+   {
+    "w": "internet,",
+    "start": 43.545,
+    "end": 44.23
+   },
+   {
+    "w": "listrik,",
+    "start": 44.23,
+    "end": 44.86
+   },
+   {
+    "w": "komputer,",
+    "start": 44.86,
+    "end": 45.545
+   },
+   {
+    "w": "kendaraan",
+    "start": 45.545,
+    "end": 46.121
+   },
+   {
+    "w": "modern,",
+    "start": 46.121,
+    "end": 46.696
+   }
+  ]
+ },
+ {
+  "start": 46.696,
+  "end": 48.864,
+  "text": "atau hiburan seperti sekarang.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "atau",
+    "start": 46.696,
+    "end": 46.998
+   },
+   {
+    "w": "hiburan",
+    "start": 46.998,
+    "end": 47.463
+   },
+   {
+    "w": "seperti",
+    "start": 47.463,
+    "end": 47.929
+   },
+   {
+    "w": "sekarang.",
+    "start": 47.929,
+    "end": 48.614
+   }
+  ]
+ },
+ {
+  "start": 49.064,
+  "end": 52.865,
+  "text": "Untuk mendapatkan informasi,\norang datang langsung ke pasar,",
+  "breakAt": 3,
+  "words": [
+   {
+    "w": "Untuk",
+    "start": 49.064,
+    "end": 49.426
+   },
+   {
+    "w": "mendapatkan",
+    "start": 49.426,
+    "end": 50.122
+   },
+   {
+    "w": "informasi,",
+    "start": 50.122,
+    "end": 50.873
+   },
+   {
+    "w": "orang",
+    "start": 50.873,
+    "end": 51.235
+   },
+   {
+    "w": "datang",
+    "start": 51.235,
+    "end": 51.653
+   },
+   {
+    "w": "langsung",
+    "start": 51.653,
+    "end": 52.181
+   },
+   {
+    "w": "ke",
+    "start": 52.181,
+    "end": 52.376
+   },
+   {
+    "w": "pasar,",
+    "start": 52.376,
+    "end": 52.905
+   }
+  ]
+ },
+ {
+  "start": 52.905,
+  "end": 57.803,
+  "text": "mendengar berita dari orang lain, atau\nmembaca pengumuman di tempat umum.",
+  "breakAt": 6,
+  "words": [
+   {
+    "w": "mendengar",
+    "start": 52.905,
+    "end": 53.489
+   },
+   {
+    "w": "berita",
+    "start": 53.489,
+    "end": 53.907
+   },
+   {
+    "w": "dari",
+    "start": 53.907,
+    "end": 54.213
+   },
+   {
+    "w": "orang",
+    "start": 54.213,
+    "end": 54.575
+   },
+   {
+    "w": "lain,",
+    "start": 54.575,
+    "end": 55.048
+   },
+   {
+    "w": "atau",
+    "start": 55.048,
+    "end": 55.354
+   },
+   {
+    "w": "membaca",
+    "start": 55.354,
+    "end": 55.827
+   },
+   {
+    "w": "pengumuman",
+    "start": 55.827,
+    "end": 56.467
+   },
+   {
+    "w": "di",
+    "start": 56.467,
+    "end": 56.662
+   },
+   {
+    "w": "tempat",
+    "start": 56.662,
+    "end": 57.08
+   },
+   {
+    "w": "umum.",
+    "start": 57.08,
+    "end": 57.553
+   }
+  ]
+ },
+ {
+  "start": 59.75,
+  "end": 63.347,
+  "text": "Nomor tiga: kamu bisa\njadi pusat perhatian.",
+  "breakAt": 4,
+  "words": [
+   {
+    "w": "Nomor",
+    "start": 59.75,
+    "end": 60.172
+   },
+   {
+    "w": "tiga:",
+    "start": 60.172,
+    "end": 60.725
+   },
+   {
+    "w": "kamu",
+    "start": 60.725,
+    "end": 61.082
+   },
+   {
+    "w": "bisa",
+    "start": 61.082,
+    "end": 61.44
+   },
+   {
+    "w": "jadi",
+    "start": 61.44,
+    "end": 61.797
+   },
+   {
+    "w": "pusat",
+    "start": 61.797,
+    "end": 62.22
+   },
+   {
+    "w": "perhatian.",
+    "start": 62.22,
+    "end": 63.097
+   }
+  ]
+ },
+ {
+  "start": 63.597,
+  "end": 64.581,
+  "text": "Kaus, celana,",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Kaus,",
+    "start": 63.597,
+    "end": 64.055
+   },
+   {
+    "w": "celana,",
+    "start": 64.055,
+    "end": 64.621
+   }
+  ]
+ },
+ {
+  "start": 64.621,
+  "end": 70.746,
+  "text": "dan tas punggungmu akan terlihat sangat\naneh bagi orang-orang di tahun 1650.",
+  "breakAt": 6,
+  "words": [
+   {
+    "w": "dan",
+    "start": 64.621,
+    "end": 64.864
+   },
+   {
+    "w": "tas",
+    "start": 64.864,
+    "end": 65.106
+   },
+   {
+    "w": "punggungmu",
+    "start": 65.106,
+    "end": 65.726
+   },
+   {
+    "w": "akan",
+    "start": 65.726,
+    "end": 66.022
+   },
+   {
+    "w": "terlihat",
+    "start": 66.022,
+    "end": 66.534
+   },
+   {
+    "w": "sangat",
+    "start": 66.534,
+    "end": 66.939
+   },
+   {
+    "w": "aneh",
+    "start": 66.939,
+    "end": 67.235
+   },
+   {
+    "w": "bagi",
+    "start": 67.235,
+    "end": 67.532
+   },
+   {
+    "w": "orang-orang",
+    "start": 67.532,
+    "end": 68.205
+   },
+   {
+    "w": "di",
+    "start": 68.205,
+    "end": 68.394
+   },
+   {
+    "w": "tahun",
+    "start": 68.394,
+    "end": 68.744
+   },
+   {
+    "w": "1650.",
+    "start": 68.744,
+    "end": 70.496
+   }
+  ]
+ },
+ {
+  "start": 70.946,
+  "end": 73.973,
+  "text": "Begitu juga cara bicara dan perilakumu.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Begitu",
+    "start": 70.946,
+    "end": 71.409
+   },
+   {
+    "w": "juga",
+    "start": 71.409,
+    "end": 71.748
+   },
+   {
+    "w": "cara",
+    "start": 71.748,
+    "end": 72.087
+   },
+   {
+    "w": "bicara",
+    "start": 72.087,
+    "end": 72.55
+   },
+   {
+    "w": "dan",
+    "start": 72.55,
+    "end": 72.828
+   },
+   {
+    "w": "perilakumu.",
+    "start": 72.828,
+    "end": 73.723
+   }
+  ]
+ },
+ {
+  "start": 74.173,
+  "end": 79.892,
+  "text": "Akibatnya, kamu bisa menarik perhatian,\ndianggap orang asing, atau bahkan dicurigai.",
+  "breakAt": 5,
+  "words": [
+   {
+    "w": "Akibatnya,",
+    "start": 74.173,
+    "end": 74.922
+   },
+   {
+    "w": "kamu",
+    "start": 74.922,
+    "end": 75.228
+   },
+   {
+    "w": "bisa",
+    "start": 75.228,
+    "end": 75.533
+   },
+   {
+    "w": "menarik",
+    "start": 75.533,
+    "end": 76.005
+   },
+   {
+    "w": "perhatian,",
+    "start": 76.005,
+    "end": 76.755
+   },
+   {
+    "w": "dianggap",
+    "start": 76.755,
+    "end": 77.282
+   },
+   {
+    "w": "orang",
+    "start": 77.282,
+    "end": 77.643
+   },
+   {
+    "w": "asing,",
+    "start": 77.643,
+    "end": 78.171
+   },
+   {
+    "w": "atau",
+    "start": 78.171,
+    "end": 78.476
+   },
+   {
+    "w": "bahkan",
+    "start": 78.476,
+    "end": 78.893
+   },
+   {
+    "w": "dicurigai.",
+    "start": 78.893,
+    "end": 79.642
+   }
+  ]
+ },
+ {
+  "start": 81.85,
+  "end": 84.907,
+  "text": "Nomor empat: bahasa bisa jadi masalah.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Nomor",
+    "start": 81.85,
+    "end": 82.247
+   },
+   {
+    "w": "empat:",
+    "start": 82.247,
+    "end": 82.826
+   },
+   {
+    "w": "bahasa",
+    "start": 82.826,
+    "end": 83.284
+   },
+   {
+    "w": "bisa",
+    "start": 83.284,
+    "end": 83.62
+   },
+   {
+    "w": "jadi",
+    "start": 83.62,
+    "end": 83.955
+   },
+   {
+    "w": "masalah.",
+    "start": 83.955,
+    "end": 84.657
+   }
+  ]
+ },
+ {
+  "start": 85.157,
+  "end": 86.04,
+  "text": "“Wat zoek je?”",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "“Wat",
+    "start": 85.157,
+    "end": 85.409
+   },
+   {
+    "w": "zoek",
+    "start": 85.409,
+    "end": 85.717
+   },
+   {
+    "w": "je?”",
+    "start": 85.717,
+    "end": 86.08
+   }
+  ]
+ },
+ {
+  "start": 86.08,
+  "end": 89.353,
+  "text": "— dalam bahasa Belanda,\nartinya “Kamu cari apa?”",
+  "breakAt": 4,
+  "words": [
+   {
+    "w": "—",
+    "start": 86.08,
+    "end": 86.164
+   },
+   {
+    "w": "dalam",
+    "start": 86.164,
+    "end": 86.528
+   },
+   {
+    "w": "bahasa",
+    "start": 86.528,
+    "end": 86.948
+   },
+   {
+    "w": "Belanda,",
+    "start": 86.948,
+    "end": 87.592
+   },
+   {
+    "w": "artinya",
+    "start": 87.592,
+    "end": 88.067
+   },
+   {
+    "w": "“Kamu",
+    "start": 88.067,
+    "end": 88.375
+   },
+   {
+    "w": "cari",
+    "start": 88.375,
+    "end": 88.683
+   },
+   {
+    "w": "apa?”",
+    "start": 88.683,
+    "end": 89.103
+   }
+  ]
+ },
+ {
+  "start": 89.603,
+  "end": 94.989,
+  "text": "Di tahun 1650, setiap wilayah\nmemiliki bahasa yang berbeda.",
+  "breakAt": 5,
+  "words": [
+   {
+    "w": "Di",
+    "start": 89.603,
+    "end": 89.808
+   },
+   {
+    "w": "tahun",
+    "start": 89.808,
+    "end": 90.189
+   },
+   {
+    "w": "1650,",
+    "start": 90.189,
+    "end": 92.096
+   },
+   {
+    "w": "setiap",
+    "start": 92.096,
+    "end": 92.536
+   },
+   {
+    "w": "wilayah",
+    "start": 92.536,
+    "end": 93.034
+   },
+   {
+    "w": "memiliki",
+    "start": 93.034,
+    "end": 93.592
+   },
+   {
+    "w": "bahasa",
+    "start": 93.592,
+    "end": 94.032
+   },
+   {
+    "w": "yang",
+    "start": 94.032,
+    "end": 94.354
+   },
+   {
+    "w": "berbeda.",
+    "start": 94.354,
+    "end": 95.029
+   }
+  ]
+ },
+ {
+  "start": 95.029,
+  "end": 100.034,
+  "text": "Di kota pelabuhan, kamu bisa mendengar\nbahasa Belanda, Inggris, Prancis,",
+  "breakAt": 6,
+  "words": [
+   {
+    "w": "Di",
+    "start": 95.029,
+    "end": 95.234
+   },
+   {
+    "w": "kota",
+    "start": 95.234,
+    "end": 95.557
+   },
+   {
+    "w": "pelabuhan,",
+    "start": 95.557,
+    "end": 96.349
+   },
+   {
+    "w": "kamu",
+    "start": 96.349,
+    "end": 96.671
+   },
+   {
+    "w": "bisa",
+    "start": 96.671,
+    "end": 96.994
+   },
+   {
+    "w": "mendengar",
+    "start": 96.994,
+    "end": 97.61
+   },
+   {
+    "w": "bahasa",
+    "start": 97.61,
+    "end": 98.05
+   },
+   {
+    "w": "Belanda,",
+    "start": 98.05,
+    "end": 98.724
+   },
+   {
+    "w": "Inggris,",
+    "start": 98.724,
+    "end": 99.399
+   },
+   {
+    "w": "Prancis,",
+    "start": 99.399,
+    "end": 100.074
+   }
+  ]
+ },
+ {
+  "start": 100.074,
+  "end": 101.262,
+  "text": "atau Jerman.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "atau",
+    "start": 100.074,
+    "end": 100.396
+   },
+   {
+    "w": "Jerman.",
+    "start": 100.396,
+    "end": 101.012
+   }
+  ]
+ },
+ {
+  "start": 101.462,
+  "end": 105.849,
+  "text": "Jika tidak mengerti bahasa setempat,\nkamu akan kesulitan membeli barang,",
+  "breakAt": 5,
+  "words": [
+   {
+    "w": "Jika",
+    "start": 101.462,
+    "end": 101.759
+   },
+   {
+    "w": "tidak",
+    "start": 101.759,
+    "end": 102.11
+   },
+   {
+    "w": "mengerti",
+    "start": 102.11,
+    "end": 102.623
+   },
+   {
+    "w": "bahasa",
+    "start": 102.623,
+    "end": 103.028
+   },
+   {
+    "w": "setempat,",
+    "start": 103.028,
+    "end": 103.702
+   },
+   {
+    "w": "kamu",
+    "start": 103.702,
+    "end": 103.999
+   },
+   {
+    "w": "akan",
+    "start": 103.999,
+    "end": 104.296
+   },
+   {
+    "w": "kesulitan",
+    "start": 104.296,
+    "end": 104.863
+   },
+   {
+    "w": "membeli",
+    "start": 104.863,
+    "end": 105.322
+   },
+   {
+    "w": "barang,",
+    "start": 105.322,
+    "end": 105.889
+   }
+  ]
+ },
+ {
+  "start": 105.889,
+  "end": 108.892,
+  "text": "bertanya arah, atau\nbahkan meminta bantuan.",
+  "breakAt": 3,
+  "words": [
+   {
+    "w": "bertanya",
+    "start": 105.889,
+    "end": 106.401
+   },
+   {
+    "w": "arah,",
+    "start": 106.401,
+    "end": 106.86
+   },
+   {
+    "w": "atau",
+    "start": 106.86,
+    "end": 107.157
+   },
+   {
+    "w": "bahkan",
+    "start": 107.157,
+    "end": 107.562
+   },
+   {
+    "w": "meminta",
+    "start": 107.562,
+    "end": 108.021
+   },
+   {
+    "w": "bantuan.",
+    "start": 108.021,
+    "end": 108.642
+   }
+  ]
+ },
+ {
+  "start": 110.85,
+  "end": 114.207,
+  "text": "Nomor lima: kondisi\nhidup jauh lebih keras.",
+  "breakAt": 3,
+  "words": [
+   {
+    "w": "Nomor",
+    "start": 110.85,
+    "end": 111.242
+   },
+   {
+    "w": "lima:",
+    "start": 111.242,
+    "end": 111.755
+   },
+   {
+    "w": "kondisi",
+    "start": 111.755,
+    "end": 112.268
+   },
+   {
+    "w": "hidup",
+    "start": 112.268,
+    "end": 112.66
+   },
+   {
+    "w": "jauh",
+    "start": 112.66,
+    "end": 112.991
+   },
+   {
+    "w": "lebih",
+    "start": 112.991,
+    "end": 113.384
+   },
+   {
+    "w": "keras.",
+    "start": 113.384,
+    "end": 113.957
+   }
+  ]
+ },
+ {
+  "start": 114.457,
+  "end": 118.389,
+  "text": "Kebersihan, kesehatan, dan\nmakanan belum sebaik sekarang.",
+  "breakAt": 3,
+  "words": [
+   {
+    "w": "Kebersihan,",
+    "start": 114.457,
+    "end": 115.31
+   },
+   {
+    "w": "kesehatan,",
+    "start": 115.31,
+    "end": 116.104
+   },
+   {
+    "w": "dan",
+    "start": 116.104,
+    "end": 116.369
+   },
+   {
+    "w": "makanan",
+    "start": 116.369,
+    "end": 116.869
+   },
+   {
+    "w": "belum",
+    "start": 116.869,
+    "end": 117.252
+   },
+   {
+    "w": "sebaik",
+    "start": 117.252,
+    "end": 117.693
+   },
+   {
+    "w": "sekarang.",
+    "start": 117.693,
+    "end": 118.429
+   }
+  ]
+ },
+ {
+  "start": 118.429,
+  "end": 121.357,
+  "text": "Air kotor dibuang begitu saja ke jalan.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Air",
+    "start": 118.429,
+    "end": 118.694
+   },
+   {
+    "w": "kotor",
+    "start": 118.694,
+    "end": 119.076
+   },
+   {
+    "w": "dibuang",
+    "start": 119.076,
+    "end": 119.577
+   },
+   {
+    "w": "begitu",
+    "start": 119.577,
+    "end": 120.018
+   },
+   {
+    "w": "saja",
+    "start": 120.018,
+    "end": 120.342
+   },
+   {
+    "w": "ke",
+    "start": 120.342,
+    "end": 120.548
+   },
+   {
+    "w": "jalan.",
+    "start": 120.548,
+    "end": 121.107
+   }
+  ]
+ },
+ {
+  "start": 121.557,
+  "end": 125.582,
+  "text": "Penyakit seperti cacar, disentri,\ndan wabah pes mudah menyebar,",
+  "breakAt": 4,
+  "words": [
+   {
+    "w": "Penyakit",
+    "start": 121.557,
+    "end": 122.075
+   },
+   {
+    "w": "seperti",
+    "start": 122.075,
+    "end": 122.539
+   },
+   {
+    "w": "cacar,",
+    "start": 122.539,
+    "end": 123.057
+   },
+   {
+    "w": "disentri,",
+    "start": 123.057,
+    "end": 123.739
+   },
+   {
+    "w": "dan",
+    "start": 123.739,
+    "end": 123.985
+   },
+   {
+    "w": "wabah",
+    "start": 123.985,
+    "end": 124.34
+   },
+   {
+    "w": "pes",
+    "start": 124.34,
+    "end": 124.585
+   },
+   {
+    "w": "mudah",
+    "start": 124.585,
+    "end": 124.94
+   },
+   {
+    "w": "menyebar,",
+    "start": 124.94,
+    "end": 125.622
+   }
+  ]
+ },
+ {
+  "start": 125.622,
+  "end": 128.409,
+  "text": "dan banyak orang meninggal di usia muda.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "dan",
+    "start": 125.622,
+    "end": 125.868
+   },
+   {
+    "w": "banyak",
+    "start": 125.868,
+    "end": 126.277
+   },
+   {
+    "w": "orang",
+    "start": 126.277,
+    "end": 126.632
+   },
+   {
+    "w": "meninggal",
+    "start": 126.632,
+    "end": 127.204
+   },
+   {
+    "w": "di",
+    "start": 127.204,
+    "end": 127.395
+   },
+   {
+    "w": "usia",
+    "start": 127.395,
+    "end": 127.696
+   },
+   {
+    "w": "muda.",
+    "start": 127.696,
+    "end": 128.159
+   }
+  ]
+ },
+ {
+  "start": 128.609,
+  "end": 134.626,
+  "text": "Hidup di tahun 1650 jauh lebih\nberisiko dan penuh tantangan.",
+  "breakAt": 6,
+  "words": [
+   {
+    "w": "Hidup",
+    "start": 128.609,
+    "end": 129.017
+   },
+   {
+    "w": "di",
+    "start": 129.017,
+    "end": 129.236
+   },
+   {
+    "w": "tahun",
+    "start": 129.236,
+    "end": 129.644
+   },
+   {
+    "w": "1650",
+    "start": 129.644,
+    "end": 131.493
+   },
+   {
+    "w": "jauh",
+    "start": 131.493,
+    "end": 131.837
+   },
+   {
+    "w": "lebih",
+    "start": 131.837,
+    "end": 132.245
+   },
+   {
+    "w": "berisiko",
+    "start": 132.245,
+    "end": 132.84
+   },
+   {
+    "w": "dan",
+    "start": 132.84,
+    "end": 133.122
+   },
+   {
+    "w": "penuh",
+    "start": 133.122,
+    "end": 133.53
+   },
+   {
+    "w": "tantangan.",
+    "start": 133.53,
+    "end": 134.376
+   }
+  ]
+ },
+ {
+  "start": 136.583,
+  "end": 139.888,
+  "text": "Nomor enam: kamu harus\nbekerja untuk hidup.",
+  "breakAt": 4,
+  "words": [
+   {
+    "w": "Nomor",
+    "start": 136.583,
+    "end": 136.969
+   },
+   {
+    "w": "enam:",
+    "start": 136.969,
+    "end": 137.473
+   },
+   {
+    "w": "kamu",
+    "start": 137.473,
+    "end": 137.799
+   },
+   {
+    "w": "harus",
+    "start": 137.799,
+    "end": 138.185
+   },
+   {
+    "w": "bekerja",
+    "start": 138.185,
+    "end": 138.689
+   },
+   {
+    "w": "untuk",
+    "start": 138.689,
+    "end": 139.074
+   },
+   {
+    "w": "hidup.",
+    "start": 139.074,
+    "end": 139.638
+   }
+  ]
+ },
+ {
+  "start": 140.138,
+  "end": 144.67,
+  "text": "Kebanyakan orang bekerja keras setiap\nhari demi makanan, tempat tinggal,",
+  "breakAt": 5,
+  "words": [
+   {
+    "w": "Kebanyakan",
+    "start": 140.138,
+    "end": 140.779
+   },
+   {
+    "w": "orang",
+    "start": 140.779,
+    "end": 141.141
+   },
+   {
+    "w": "bekerja",
+    "start": 141.141,
+    "end": 141.615
+   },
+   {
+    "w": "keras",
+    "start": 141.615,
+    "end": 141.978
+   },
+   {
+    "w": "setiap",
+    "start": 141.978,
+    "end": 142.396
+   },
+   {
+    "w": "hari",
+    "start": 142.396,
+    "end": 142.703
+   },
+   {
+    "w": "demi",
+    "start": 142.703,
+    "end": 143.009
+   },
+   {
+    "w": "makanan,",
+    "start": 143.009,
+    "end": 143.65
+   },
+   {
+    "w": "tempat",
+    "start": 143.65,
+    "end": 144.069
+   },
+   {
+    "w": "tinggal,",
+    "start": 144.069,
+    "end": 144.71
+   }
+  ]
+ },
+ {
+  "start": 144.71,
+  "end": 146.437,
+  "text": "dan kebutuhan lainnya.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "dan",
+    "start": 144.71,
+    "end": 144.961
+   },
+   {
+    "w": "kebutuhan",
+    "start": 144.961,
+    "end": 145.546
+   },
+   {
+    "w": "lainnya.",
+    "start": 145.546,
+    "end": 146.187
+   }
+  ]
+ },
+ {
+  "start": 146.637,
+  "end": 149.382,
+  "text": "Ada petani yang bekerja\ndi ladang sepanjang hari,",
+  "breakAt": 4,
+  "words": [
+   {
+    "w": "Ada",
+    "start": 146.637,
+    "end": 146.861
+   },
+   {
+    "w": "petani",
+    "start": 146.861,
+    "end": 147.234
+   },
+   {
+    "w": "yang",
+    "start": 147.234,
+    "end": 147.507
+   },
+   {
+    "w": "bekerja",
+    "start": 147.507,
+    "end": 147.93
+   },
+   {
+    "w": "di",
+    "start": 147.93,
+    "end": 148.104
+   },
+   {
+    "w": "ladang",
+    "start": 148.104,
+    "end": 148.477
+   },
+   {
+    "w": "sepanjang",
+    "start": 148.477,
+    "end": 148.999
+   },
+   {
+    "w": "hari,",
+    "start": 148.999,
+    "end": 149.422
+   }
+  ]
+ },
+ {
+  "start": 149.422,
+  "end": 153.029,
+  "text": "dan pekerja kasar yang mengangkat\nbarang berat di pelabuhan.",
+  "breakAt": 5,
+  "words": [
+   {
+    "w": "dan",
+    "start": 149.422,
+    "end": 149.646
+   },
+   {
+    "w": "pekerja",
+    "start": 149.646,
+    "end": 150.068
+   },
+   {
+    "w": "kasar",
+    "start": 150.068,
+    "end": 150.392
+   },
+   {
+    "w": "yang",
+    "start": 150.392,
+    "end": 150.665
+   },
+   {
+    "w": "mengangkat",
+    "start": 150.665,
+    "end": 151.237
+   },
+   {
+    "w": "barang",
+    "start": 151.237,
+    "end": 151.61
+   },
+   {
+    "w": "berat",
+    "start": 151.61,
+    "end": 151.933
+   },
+   {
+    "w": "di",
+    "start": 151.933,
+    "end": 152.107
+   },
+   {
+    "w": "pelabuhan.",
+    "start": 152.107,
+    "end": 152.779
+   }
+  ]
+ },
+ {
+  "start": 153.129,
+  "end": 157.531,
+  "text": "Ada pembantu rumah untuk keluarga\nkaya, pengrajin besi, kayu, dan kain,",
+  "breakAt": 5,
+  "words": [
+   {
+    "w": "Ada",
+    "start": 153.129,
+    "end": 153.362
+   },
+   {
+    "w": "pembantu",
+    "start": 153.362,
+    "end": 153.856
+   },
+   {
+    "w": "rumah",
+    "start": 153.856,
+    "end": 154.194
+   },
+   {
+    "w": "untuk",
+    "start": 154.194,
+    "end": 154.531
+   },
+   {
+    "w": "keluarga",
+    "start": 154.531,
+    "end": 155.025
+   },
+   {
+    "w": "kaya,",
+    "start": 155.025,
+    "end": 155.467
+   },
+   {
+    "w": "pengrajin",
+    "start": 155.467,
+    "end": 156.012
+   },
+   {
+    "w": "besi,",
+    "start": 156.012,
+    "end": 156.454
+   },
+   {
+    "w": "kayu,",
+    "start": 156.454,
+    "end": 156.895
+   },
+   {
+    "w": "dan",
+    "start": 156.895,
+    "end": 157.129
+   },
+   {
+    "w": "kain,",
+    "start": 157.129,
+    "end": 157.571
+   }
+  ]
+ },
+ {
+  "start": 157.571,
+  "end": 160.783,
+  "text": "juga tentara yang berisiko\ntinggi di medan perang.",
+  "breakAt": 4,
+  "words": [
+   {
+    "w": "juga",
+    "start": 157.571,
+    "end": 157.857
+   },
+   {
+    "w": "tentara",
+    "start": 157.857,
+    "end": 158.298
+   },
+   {
+    "w": "yang",
+    "start": 158.298,
+    "end": 158.584
+   },
+   {
+    "w": "berisiko",
+    "start": 158.584,
+    "end": 159.078
+   },
+   {
+    "w": "tinggi",
+    "start": 159.078,
+    "end": 159.467
+   },
+   {
+    "w": "di",
+    "start": 159.467,
+    "end": 159.649
+   },
+   {
+    "w": "medan",
+    "start": 159.649,
+    "end": 159.987
+   },
+   {
+    "w": "perang.",
+    "start": 159.987,
+    "end": 160.533
+   }
+  ]
+ },
+ {
+  "start": 160.983,
+  "end": 165.881,
+  "text": "Tidak ada gaji tinggi seperti sekarang,\ndan pekerjaannya berat serta berisiko.",
+  "breakAt": 6,
+  "words": [
+   {
+    "w": "Tidak",
+    "start": 160.983,
+    "end": 161.324
+   },
+   {
+    "w": "ada",
+    "start": 161.324,
+    "end": 161.56
+   },
+   {
+    "w": "gaji",
+    "start": 161.56,
+    "end": 161.849
+   },
+   {
+    "w": "tinggi",
+    "start": 161.849,
+    "end": 162.243
+   },
+   {
+    "w": "seperti",
+    "start": 162.243,
+    "end": 162.69
+   },
+   {
+    "w": "sekarang,",
+    "start": 162.69,
+    "end": 163.346
+   },
+   {
+    "w": "dan",
+    "start": 163.346,
+    "end": 163.582
+   },
+   {
+    "w": "pekerjaannya",
+    "start": 163.582,
+    "end": 164.292
+   },
+   {
+    "w": "berat",
+    "start": 164.292,
+    "end": 164.633
+   },
+   {
+    "w": "serta",
+    "start": 164.633,
+    "end": 164.974
+   },
+   {
+    "w": "berisiko.",
+    "start": 164.974,
+    "end": 165.631
+   }
+  ]
+ },
+ {
+  "start": 167.833,
+  "end": 171.939,
+  "text": "Nomor tujuh: harga barang\ndan kehidupan sehari-hari.",
+  "breakAt": 4,
+  "words": [
+   {
+    "w": "Nomor",
+    "start": 167.833,
+    "end": 168.248
+   },
+   {
+    "w": "tujuh:",
+    "start": 168.248,
+    "end": 168.853
+   },
+   {
+    "w": "harga",
+    "start": 168.853,
+    "end": 169.267
+   },
+   {
+    "w": "barang",
+    "start": 169.267,
+    "end": 169.745
+   },
+   {
+    "w": "dan",
+    "start": 169.745,
+    "end": 170.032
+   },
+   {
+    "w": "kehidupan",
+    "start": 170.032,
+    "end": 170.701
+   },
+   {
+    "w": "sehari-hari.",
+    "start": 170.701,
+    "end": 171.689
+   }
+  ]
+ },
+ {
+  "start": 172.189,
+  "end": 176.627,
+  "text": "Uang yang digunakan bukan ringgit atau\nrupiah, melainkan koin emas, perak,",
+  "breakAt": 6,
+  "words": [
+   {
+    "w": "Uang",
+    "start": 172.189,
+    "end": 172.474
+   },
+   {
+    "w": "yang",
+    "start": 172.474,
+    "end": 172.759
+   },
+   {
+    "w": "digunakan",
+    "start": 172.759,
+    "end": 173.302
+   },
+   {
+    "w": "bukan",
+    "start": 173.302,
+    "end": 173.639
+   },
+   {
+    "w": "ringgit",
+    "start": 173.639,
+    "end": 174.079
+   },
+   {
+    "w": "atau",
+    "start": 174.079,
+    "end": 174.363
+   },
+   {
+    "w": "rupiah,",
+    "start": 174.363,
+    "end": 174.907
+   },
+   {
+    "w": "melainkan",
+    "start": 174.907,
+    "end": 175.45
+   },
+   {
+    "w": "koin",
+    "start": 175.45,
+    "end": 175.735
+   },
+   {
+    "w": "emas,",
+    "start": 175.735,
+    "end": 176.175
+   },
+   {
+    "w": "perak,",
+    "start": 176.175,
+    "end": 176.667
+   }
+  ]
+ },
+ {
+  "start": 176.667,
+  "end": 177.797,
+  "text": "atau tembaga.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "atau",
+    "start": 176.667,
+    "end": 176.952
+   },
+   {
+    "w": "tembaga.",
+    "start": 176.952,
+    "end": 177.547
+   }
+  ]
+ },
+ {
+  "start": 177.997,
+  "end": 181.036,
+  "text": "Roti adalah makanan\npokok yang relatif murah.",
+  "breakAt": 3,
+  "words": [
+   {
+    "w": "Roti",
+    "start": 177.997,
+    "end": 178.326
+   },
+   {
+    "w": "adalah",
+    "start": 178.326,
+    "end": 178.774
+   },
+   {
+    "w": "makanan",
+    "start": 178.774,
+    "end": 179.282
+   },
+   {
+    "w": "pokok",
+    "start": 179.282,
+    "end": 179.671
+   },
+   {
+    "w": "yang",
+    "start": 179.671,
+    "end": 180.0
+   },
+   {
+    "w": "relatif",
+    "start": 180.0,
+    "end": 180.508
+   },
+   {
+    "w": "murah.",
+    "start": 180.508,
+    "end": 181.076
+   }
+  ]
+ },
+ {
+  "start": 181.076,
+  "end": 186.468,
+  "text": "Telur dan sayur juga terjangkau, meski\nsayur tidak selalu ada setiap musim.",
+  "breakAt": 6,
+  "words": [
+   {
+    "w": "Telur",
+    "start": 181.076,
+    "end": 181.465
+   },
+   {
+    "w": "dan",
+    "start": 181.465,
+    "end": 181.734
+   },
+   {
+    "w": "sayur",
+    "start": 181.734,
+    "end": 182.123
+   },
+   {
+    "w": "juga",
+    "start": 182.123,
+    "end": 182.451
+   },
+   {
+    "w": "terjangkau,",
+    "start": 182.451,
+    "end": 183.318
+   },
+   {
+    "w": "meski",
+    "start": 183.318,
+    "end": 183.707
+   },
+   {
+    "w": "sayur",
+    "start": 183.707,
+    "end": 184.096
+   },
+   {
+    "w": "tidak",
+    "start": 184.096,
+    "end": 184.484
+   },
+   {
+    "w": "selalu",
+    "start": 184.484,
+    "end": 184.933
+   },
+   {
+    "w": "ada",
+    "start": 184.933,
+    "end": 185.202
+   },
+   {
+    "w": "setiap",
+    "start": 185.202,
+    "end": 185.65
+   },
+   {
+    "w": "musim.",
+    "start": 185.65,
+    "end": 186.218
+   }
+  ]
+ },
+ {
+  "start": 186.568,
+  "end": 189.884,
+  "text": "Ikan lebih mudah didapat\ndi dekat sungai atau laut.",
+  "breakAt": 4,
+  "words": [
+   {
+    "w": "Ikan",
+    "start": 186.568,
+    "end": 186.884
+   },
+   {
+    "w": "lebih",
+    "start": 186.884,
+    "end": 187.257
+   },
+   {
+    "w": "mudah",
+    "start": 187.257,
+    "end": 187.63
+   },
+   {
+    "w": "didapat",
+    "start": 187.63,
+    "end": 188.117
+   },
+   {
+    "w": "di",
+    "start": 188.117,
+    "end": 188.318
+   },
+   {
+    "w": "dekat",
+    "start": 188.318,
+    "end": 188.691
+   },
+   {
+    "w": "sungai",
+    "start": 188.691,
+    "end": 189.121
+   },
+   {
+    "w": "atau",
+    "start": 189.121,
+    "end": 189.437
+   },
+   {
+    "w": "laut.",
+    "start": 189.437,
+    "end": 189.924
+   }
+  ]
+ },
+ {
+  "start": 189.924,
+  "end": 194.563,
+  "text": "Tapi daging dan keju cukup mahal,\nbiasanya hanya untuk orang kaya.",
+  "breakAt": 6,
+  "words": [
+   {
+    "w": "Tapi",
+    "start": 189.924,
+    "end": 190.24
+   },
+   {
+    "w": "daging",
+    "start": 190.24,
+    "end": 190.67
+   },
+   {
+    "w": "dan",
+    "start": 190.67,
+    "end": 190.928
+   },
+   {
+    "w": "keju",
+    "start": 190.928,
+    "end": 191.244
+   },
+   {
+    "w": "cukup",
+    "start": 191.244,
+    "end": 191.617
+   },
+   {
+    "w": "mahal,",
+    "start": 191.617,
+    "end": 192.162
+   },
+   {
+    "w": "biasanya",
+    "start": 192.162,
+    "end": 192.707
+   },
+   {
+    "w": "hanya",
+    "start": 192.707,
+    "end": 193.08
+   },
+   {
+    "w": "untuk",
+    "start": 193.08,
+    "end": 193.453
+   },
+   {
+    "w": "orang",
+    "start": 193.453,
+    "end": 193.825
+   },
+   {
+    "w": "kaya.",
+    "start": 193.825,
+    "end": 194.313
+   }
+  ]
+ },
+ {
+  "start": 194.763,
+  "end": 199.419,
+  "text": "Banyak orang harus bekerja keras\nhanya untuk membeli makanan sederhana.",
+  "breakAt": 5,
+  "words": [
+   {
+    "w": "Banyak",
+    "start": 194.763,
+    "end": 195.181
+   },
+   {
+    "w": "orang",
+    "start": 195.181,
+    "end": 195.544
+   },
+   {
+    "w": "harus",
+    "start": 195.544,
+    "end": 195.906
+   },
+   {
+    "w": "bekerja",
+    "start": 195.906,
+    "end": 196.381
+   },
+   {
+    "w": "keras",
+    "start": 196.381,
+    "end": 196.743
+   },
+   {
+    "w": "hanya",
+    "start": 196.743,
+    "end": 197.106
+   },
+   {
+    "w": "untuk",
+    "start": 197.106,
+    "end": 197.468
+   },
+   {
+    "w": "membeli",
+    "start": 197.468,
+    "end": 197.942
+   },
+   {
+    "w": "makanan",
+    "start": 197.942,
+    "end": 198.416
+   },
+   {
+    "w": "sederhana.",
+    "start": 198.416,
+    "end": 199.169
+   }
+  ]
+ },
+ {
+  "start": 201.567,
+  "end": 204.749,
+  "text": "Nomor delapan: hukuman yang sangat keras.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Nomor",
+    "start": 201.567,
+    "end": 201.956
+   },
+   {
+    "w": "delapan:",
+    "start": 201.956,
+    "end": 202.644
+   },
+   {
+    "w": "hukuman",
+    "start": 202.644,
+    "end": 203.153
+   },
+   {
+    "w": "yang",
+    "start": 203.153,
+    "end": 203.482
+   },
+   {
+    "w": "sangat",
+    "start": 203.482,
+    "end": 203.931
+   },
+   {
+    "w": "keras.",
+    "start": 203.931,
+    "end": 204.499
+   }
+  ]
+ },
+ {
+  "start": 205.099,
+  "end": 210.399,
+  "text": "Di tahun 1650, hukuman jauh\nlebih berat daripada sekarang.",
+  "breakAt": 5,
+  "words": [
+   {
+    "w": "Di",
+    "start": 205.099,
+    "end": 205.303
+   },
+   {
+    "w": "tahun",
+    "start": 205.303,
+    "end": 205.683
+   },
+   {
+    "w": "1650,",
+    "start": 205.683,
+    "end": 207.579
+   },
+   {
+    "w": "hukuman",
+    "start": 207.579,
+    "end": 208.076
+   },
+   {
+    "w": "jauh",
+    "start": 208.076,
+    "end": 208.397
+   },
+   {
+    "w": "lebih",
+    "start": 208.397,
+    "end": 208.776
+   },
+   {
+    "w": "berat",
+    "start": 208.776,
+    "end": 209.155
+   },
+   {
+    "w": "daripada",
+    "start": 209.155,
+    "end": 209.71
+   },
+   {
+    "w": "sekarang.",
+    "start": 209.71,
+    "end": 210.439
+   }
+  ]
+ },
+ {
+  "start": 210.439,
+  "end": 214.279,
+  "text": "Kesalahan kecil pun bisa\ndihukum cambuk di depan umum.",
+  "breakAt": 4,
+  "words": [
+   {
+    "w": "Kesalahan",
+    "start": 210.439,
+    "end": 211.052
+   },
+   {
+    "w": "kecil",
+    "start": 211.052,
+    "end": 211.431
+   },
+   {
+    "w": "pun",
+    "start": 211.431,
+    "end": 211.694
+   },
+   {
+    "w": "bisa",
+    "start": 211.694,
+    "end": 212.015
+   },
+   {
+    "w": "dihukum",
+    "start": 212.015,
+    "end": 212.511
+   },
+   {
+    "w": "cambuk",
+    "start": 212.511,
+    "end": 212.949
+   },
+   {
+    "w": "di",
+    "start": 212.949,
+    "end": 213.153
+   },
+   {
+    "w": "depan",
+    "start": 213.153,
+    "end": 213.533
+   },
+   {
+    "w": "umum.",
+    "start": 213.533,
+    "end": 214.029
+   }
+  ]
+ },
+ {
+  "start": 214.479,
+  "end": 219.022,
+  "text": "Pelanggar bisa dipasung di alun-alun\nselama berjam-jam untuk dipermalukan.",
+  "breakAt": 5,
+  "words": [
+   {
+    "w": "Pelanggar",
+    "start": 214.479,
+    "end": 215.069
+   },
+   {
+    "w": "bisa",
+    "start": 215.069,
+    "end": 215.378
+   },
+   {
+    "w": "dipasung",
+    "start": 215.378,
+    "end": 215.913
+   },
+   {
+    "w": "di",
+    "start": 215.913,
+    "end": 216.109
+   },
+   {
+    "w": "alun-alun",
+    "start": 216.109,
+    "end": 216.7
+   },
+   {
+    "w": "selama",
+    "start": 216.7,
+    "end": 217.122
+   },
+   {
+    "w": "berjam-jam",
+    "start": 217.122,
+    "end": 217.768
+   },
+   {
+    "w": "untuk",
+    "start": 217.768,
+    "end": 218.134
+   },
+   {
+    "w": "dipermalukan.",
+    "start": 218.134,
+    "end": 219.062
+   }
+  ]
+ },
+ {
+  "start": 219.062,
+  "end": 222.011,
+  "text": "Pencuri bahkan bisa dihukum potong tangan.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Pencuri",
+    "start": 219.062,
+    "end": 219.54
+   },
+   {
+    "w": "bahkan",
+    "start": 219.54,
+    "end": 219.962
+   },
+   {
+    "w": "bisa",
+    "start": 219.962,
+    "end": 220.271
+   },
+   {
+    "w": "dihukum",
+    "start": 220.271,
+    "end": 220.749
+   },
+   {
+    "w": "potong",
+    "start": 220.749,
+    "end": 221.171
+   },
+   {
+    "w": "tangan.",
+    "start": 221.171,
+    "end": 221.761
+   }
+  ]
+ },
+ {
+  "start": 222.211,
+  "end": 226.256,
+  "text": "Untuk kejahatan berat, atau orang\nyang dituduh sebagai penyihir,",
+  "breakAt": 5,
+  "words": [
+   {
+    "w": "Untuk",
+    "start": 222.211,
+    "end": 222.572
+   },
+   {
+    "w": "kejahatan",
+    "start": 222.572,
+    "end": 223.156
+   },
+   {
+    "w": "berat,",
+    "start": 223.156,
+    "end": 223.684
+   },
+   {
+    "w": "atau",
+    "start": 223.684,
+    "end": 223.99
+   },
+   {
+    "w": "orang",
+    "start": 223.99,
+    "end": 224.351
+   },
+   {
+    "w": "yang",
+    "start": 224.351,
+    "end": 224.657
+   },
+   {
+    "w": "dituduh",
+    "start": 224.657,
+    "end": 225.129
+   },
+   {
+    "w": "sebagai",
+    "start": 225.129,
+    "end": 225.602
+   },
+   {
+    "w": "penyihir,",
+    "start": 225.602,
+    "end": 226.296
+   }
+  ]
+ },
+ {
+  "start": 226.296,
+  "end": 229.881,
+  "text": "hukumannya adalah hukuman\nmati di depan orang banyak.",
+  "breakAt": 3,
+  "words": [
+   {
+    "w": "hukumannya",
+    "start": 226.296,
+    "end": 226.936
+   },
+   {
+    "w": "adalah",
+    "start": 226.936,
+    "end": 227.353
+   },
+   {
+    "w": "hukuman",
+    "start": 227.353,
+    "end": 227.825
+   },
+   {
+    "w": "mati",
+    "start": 227.825,
+    "end": 228.131
+   },
+   {
+    "w": "di",
+    "start": 228.131,
+    "end": 228.325
+   },
+   {
+    "w": "depan",
+    "start": 228.325,
+    "end": 228.687
+   },
+   {
+    "w": "orang",
+    "start": 228.687,
+    "end": 229.048
+   },
+   {
+    "w": "banyak.",
+    "start": 229.048,
+    "end": 229.631
+   }
+  ]
+ },
+ {
+  "start": 234.233,
+  "end": 235.752,
+  "text": "Kamu tersentak bangun.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Kamu",
+    "start": 234.233,
+    "end": 234.557
+   },
+   {
+    "w": "tersentak",
+    "start": 234.557,
+    "end": 235.174
+   },
+   {
+    "w": "bangun.",
+    "start": 235.174,
+    "end": 235.792
+   }
+  ]
+ },
+ {
+  "start": 235.792,
+  "end": 237.63,
+  "text": "Napasmu terengah-engah.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Napasmu",
+    "start": 235.792,
+    "end": 236.292
+   },
+   {
+    "w": "terengah-engah.",
+    "start": 236.292,
+    "end": 237.38
+   }
+  ]
+ },
+ {
+  "start": 238.08,
+  "end": 241.421,
+  "text": "Kamar, HP, dan tahun 2026…",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Kamar,",
+    "start": 238.08,
+    "end": 238.649
+   },
+   {
+    "w": "HP,",
+    "start": 238.649,
+    "end": 239.157
+   },
+   {
+    "w": "dan",
+    "start": 239.157,
+    "end": 239.427
+   },
+   {
+    "w": "tahun",
+    "start": 239.427,
+    "end": 239.816
+   },
+   {
+    "w": "2026…",
+    "start": 239.816,
+    "end": 241.461
+   }
+  ]
+ },
+ {
+  "start": 241.461,
+  "end": 243.387,
+  "text": "semuanya masih di sini.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "semuanya",
+    "start": 241.461,
+    "end": 242.03
+   },
+   {
+    "w": "masih",
+    "start": 242.03,
+    "end": 242.419
+   },
+   {
+    "w": "di",
+    "start": 242.419,
+    "end": 242.628
+   },
+   {
+    "w": "sini.",
+    "start": 242.628,
+    "end": 243.137
+   }
+  ]
+ },
+ {
+  "start": 243.737,
+  "end": 244.477,
+  "text": "Ternyata…",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "Ternyata…",
+    "start": 243.737,
+    "end": 244.517
+   }
+  ]
+ },
+ {
+  "start": 244.517,
+  "end": 246.453,
+  "text": "semua itu hanya mimpi.",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "semua",
+    "start": 244.517,
+    "end": 244.923
+   },
+   {
+    "w": "itu",
+    "start": 244.923,
+    "end": 245.204
+   },
+   {
+    "w": "hanya",
+    "start": 245.204,
+    "end": 245.61
+   },
+   {
+    "w": "mimpi.",
+    "start": 245.61,
+    "end": 246.203
+   }
+  ]
+ },
+ {
+  "start": 247.003,
+  "end": 251.071,
+  "text": "Jadi, kalau kamu bisa\nkembali ke tahun 1650…",
+  "breakAt": 4,
+  "words": [
+   {
+    "w": "Jadi,",
+    "start": 247.003,
+    "end": 247.456
+   },
+   {
+    "w": "kalau",
+    "start": 247.456,
+    "end": 247.803
+   },
+   {
+    "w": "kamu",
+    "start": 247.803,
+    "end": 248.097
+   },
+   {
+    "w": "bisa",
+    "start": 248.097,
+    "end": 248.39
+   },
+   {
+    "w": "kembali",
+    "start": 248.39,
+    "end": 248.844
+   },
+   {
+    "w": "ke",
+    "start": 248.844,
+    "end": 249.03
+   },
+   {
+    "w": "tahun",
+    "start": 249.03,
+    "end": 249.377
+   },
+   {
+    "w": "1650…",
+    "start": 249.377,
+    "end": 251.111
+   }
+  ]
+ },
+ {
+  "start": 251.111,
+  "end": 252.615,
+  "text": "apakah kamu berani?",
+  "breakAt": null,
+  "words": [
+   {
+    "w": "apakah",
+    "start": 251.111,
+    "end": 251.511
+   },
+   {
+    "w": "kamu",
+    "start": 251.511,
+    "end": 251.805
+   },
+   {
+    "w": "berani?",
+    "start": 251.805,
+    "end": 252.365
+   }
+  ]
+ }
+]
