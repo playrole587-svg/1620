@@ -42,7 +42,7 @@ export const Main: React.FC<{subtitles?: boolean; narration?: boolean}> = ({subt
         </Sequence>
       );
     })}
-    {narration && <Audio src={staticFile('audio/narration-guide.wav')} volume={1} />}
+    {narration && <Audio src={staticFile('audio/narration-guide.wav')} volume={0.85} />}
     {subtitles && <SubtitleTrack />}
   </AbsoluteFill>
 );

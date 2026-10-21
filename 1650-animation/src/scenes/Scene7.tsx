@@ -106,7 +106,7 @@ export const Scene7: React.FC = () => (
                   <HighlightBox key={i} t={t} t0={f.at - 0.1} out={f.at + 1.8} x={1262} y={BOARD_ROWS[f.row] - 26} w={270} h={50} r={12} color={f.cheap ? '#8fe07a' : '#ff7a6a'} />
                 ))}
                 <Mark t={t} t0={FOODS[4].at + 0.2} out={seg('s7e')} x={640} y={330} ch="!" size={110} />
-                <TitleBox t={t} t0={0.12} x={30} y={30} w={920} h={214} lines={['Harga Barang', 'dan Kehidupan Harian']} num="7" size={70} seed={71} />
+                <TitleBox t={t} t0={0.12} x={30} y={30} w={920} h={214} lines={['Harga Barang', 'dan Kehidupan Harian']} num="7" size={62} seed={71} />
                 <InfoBox
                   t={t}
                   t0={0.5}

@@ -111,18 +111,7 @@ export const Scene1: React.FC = () => (
                   <ShockLines t={t} t0={t1650 + 0.05} x={545} y={420} rot={-35} scale={1.3} />
                   <ShockLines t={t} t0={t1650 + 0.1} x={880} y={430} rot={35} scale={1.3} />
                   <Mark t={t} t0={tTitle + 0.6} x={905} y={455} ch="?" size={110} seed={2} />
-                  <TitleBox
-                    t={t}
-                    t0={tTitle + 0.25}
-                    x={58}
-                    y={104}
-                    w={800}
-                    h={300}
-                    lines={['Apa Terjadi Jika', 'Kita Terbangun', 'di Tahun 1650?']}
-                    accentFrom={2}
-                    size={78}
-                    seed={11}
-                  />
+
                 </PlateSvg>
               </Layer>
               <Layer depth={1.18}>
@@ -144,6 +133,22 @@ export const Scene1: React.FC = () => (
               <Layer depth={1.25}>
                 <PlateSvg>
                   <Particles t={t} n={26} x={0} y={300} w={1536} h={700} kind="dust" seed={7} opacity={0.8} />
+                </PlateSvg>
+              </Layer>
+              <Layer depth={1}>
+                <PlateSvg>
+                  <TitleBox
+                    t={t}
+                    t0={tTitle + 0.25}
+                    x={58}
+                    y={104}
+                    w={800}
+                    h={300}
+                    lines={['Apa Terjadi Jika', 'Kita Terbangun', 'di Tahun 1650?']}
+                    accentFrom={2}
+                    size={78}
+                    seed={11}
+                  />
                 </PlateSvg>
               </Layer>
             </AbsoluteFill>

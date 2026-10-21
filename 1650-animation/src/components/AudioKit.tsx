@@ -8,6 +8,9 @@ import {scenes} from '../animations/keyframes';
 
 export const sfx = (name: string) => staticFile(`sfx/${name}.wav`);
 
+/** global SFX trim: leaves headroom in Remotion's internal mix (final loudness is set by scripts/master.sh) */
+const SFX_GAIN = 0.75;
+
 export const Sfx: React.FC<{name: string; at: number; volume?: number; rate?: number; dur?: number; fadeOut?: number}> = ({name, at, volume = 1, rate = 1, dur, fadeOut = 0}) => {
   const {fps} = useVideoConfig();
   const from = Math.max(0, Math.round(at * fps));
@@ -18,9 +21,9 @@ export const Sfx: React.FC<{name: string; at: number; volume?: number; rate?: nu
         src={sfx(name)}
         playbackRate={rate}
         volume={(f) => {
-          if (!dur || !fadeOut) return volume;
+          if (!dur || !fadeOut) return volume * SFX_GAIN;
           const t = f / fps;
-          return volume * Math.max(0, Math.min(1, (dur - t) / fadeOut));
+          return volume * SFX_GAIN * Math.max(0, Math.min(1, (dur - t) / fadeOut));
         }}
       />
     </Sequence>

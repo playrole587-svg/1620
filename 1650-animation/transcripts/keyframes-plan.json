@@ -40,26 +40,26 @@
      "frame": 0,
      "globalFrame": 0,
      "t": 0,
-     "x": 690,
+     "x": 720,
      "y": 640,
-     "zoom": 2.1
+     "zoom": 1.8
     },
     {
      "frame": 156,
      "globalFrame": 156,
      "t": 2.6,
-     "x": 700,
+     "x": 730,
      "y": 630,
-     "zoom": 1.95,
+     "zoom": 1.7,
      "ease": "inOutSine"
     },
     {
      "frame": 393,
      "globalFrame": 393,
      "t": 6.555,
-     "x": 720,
+     "x": 740,
      "y": 620,
-     "zoom": 1.8,
+     "zoom": 1.62,
      "ease": "inOutSine"
     },
     {
@@ -93,27 +93,27 @@
      "frame": 1029,
      "globalFrame": 1029,
      "t": 17.145,
-     "x": 700,
+     "x": 730,
      "y": 640,
-     "zoom": 1.75,
+     "zoom": 1.6,
      "ease": "inOutCubic"
     },
     {
      "frame": 1297,
      "globalFrame": 1297,
      "t": 21.614,
-     "x": 700,
+     "x": 740,
      "y": 640,
-     "zoom": 2,
+     "zoom": 1.8,
      "ease": "outExpo"
     },
     {
      "frame": 1439,
      "globalFrame": 1439,
      "t": 23.982,
-     "x": 700,
+     "x": 740,
      "y": 630,
-     "zoom": 1.95,
+     "zoom": 1.75,
      "ease": "linear"
     },
     {
@@ -1866,9 +1866,9 @@
      "pale": 0.5
     },
     {
-     "frame": 405,
-     "globalFrame": 14267,
-     "t": 6.747000000000026,
+     "frame": 252,
+     "globalFrame": 14114,
+     "t": 4.200000000000017,
      "armFS": 20,
      "armFE": 30,
      "armBS": 50,
@@ -1876,9 +1876,9 @@
      "lookX": 0
     },
     {
-     "frame": 441,
-     "globalFrame": 14303,
-     "t": 7.347000000000025,
+     "frame": 288,
+     "globalFrame": 14150,
+     "t": 4.800000000000017,
      "armFS": 158,
      "armFE": 132,
      "armBS": 150,

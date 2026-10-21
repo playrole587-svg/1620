@@ -12,7 +12,7 @@ import {SceneShell} from '../components/Transitions';
 const S = 's9';
 const tJolt = 1.35;
 const tClockOff = 2.6;
-const tFace = seg('s9b') - 0.3;
+const tFace = seg('s9a') + 1.0;
 const tPhone = word('s9b', 'HP');
 const t2026 = word('s9b', '2026');
 const tRelief = seg('s9c') + 0.3;
@@ -199,7 +199,7 @@ export const Scene9: React.FC = () => (
               <Boy pose={pose} frame={frame} />
               <ShockLines t={t} t0={tJolt + 0.1} out={seg('s9a') + 2} x={500} y={250} rot={-30} scale={1.2} />
               <ShockLines t={t} t0={tJolt + 0.15} out={seg('s9a') + 2} x={820} y={250} rot={30} scale={1.2} />
-              <HighlightBox t={t} t0={t2026 - 0.2} out={t2026 + 2.2} x={748} y={158} w={244} h={274} />
+              <HighlightBox t={t} t0={t2026 + 1.6} out={t2026 + 3.6} x={748} y={158} w={244} h={274} />
               <HighlightBox t={t} t0={tPhone} out={tPhone + 2.0} x={1270} y={640} w={130} h={60} r={14} />
             </svg>
             <Blanket t={t} up={up} />
@@ -244,7 +244,7 @@ export const Scene9: React.FC = () => (
 const PhoneScreen: React.FC<{t: number}> = ({t}) => {
   const a = tPhone + 0.2;
   const b = t2026 + 0.1;
-  const s = prog(t, a, 0.4, 'outBack') * (1 - prog(t, b, 0.3, 'inBack'));
+  const s = prog(t, a, 0.4, 'outBack') * (1 - prog(t, b + 1.4, 0.3, 'inBack'));
   if (s <= 0) return null;
   return (
     <div

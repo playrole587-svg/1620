@@ -76,7 +76,7 @@ export const Scene6: React.FC = () => (
                 <Boy pose={pose} frame={frame} />
                 <HoleOutline scene="scene06" />
                 <ShockLines t={t} t0={0.6} x={215} y={318} rot={-30} />
-                <TitleBox t={t} t0={0.12} x={30} y={40} w={880} h={220} lines={['Kamu Harus', 'Bekerja untuk Hidup']} num="6" size={74} seed={61} />
+                <TitleBox t={t} t0={0.12} x={30} y={40} w={880} h={220} lines={['Kamu Harus', 'Bekerja untuk Hidup']} num="6" size={64} seed={61} />
                 <InfoBox
                   t={t}
                   t0={0.5}

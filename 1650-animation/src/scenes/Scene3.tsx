@@ -90,9 +90,9 @@ export const Scene3: React.FC = () => (
                 <Mark t={t} t0={1.0} x={1155} y={430} ch="?" size={92} color={C.red} />
                 <Mark t={t} t0={1.3} x={1305} y={400} ch="?" size={92} color={C.red} seed={3} />
                 <Mark t={t} t0={tCuriga} x={790} y={330} ch="!" size={130} seed={2} />
-                {LABEL(t, tKaus, 900, 760, 'Kaus', [810, 760], [700, 790])}
-                {LABEL(t, tCelana, 940, 900, 'Celana', [850, 915], [730, 990])}
-                {LABEL(t, tTas, 260, 800, 'Tas', [340, 805], [440, 820])}
+                {t < seg('s3c') + 0.4 && LABEL(t, tKaus, 900, 760, 'Kaus', [810, 760], [700, 790])}
+                {t < seg('s3c') + 0.4 && LABEL(t, tCelana, 940, 900, 'Celana', [850, 915], [730, 990])}
+                {t < seg('s3c') + 0.4 && LABEL(t, tTas, 260, 800, 'Tas', [340, 805], [440, 820])}
                 <Bubble t={t} t0={seg('s3c') + 0.1} out={seg('s3d') + 0.8} x={200} y={260} w={180} h={100} text="?!" tail={[30, 80]} size={46} />
                 <Bubble t={t} t0={seg('s3d') - 0.4} out={tCuriga + 1.5} x={1060} y={330} w={170} h={92} text="psst…" tail={[-50, 70]} size={34} />
                 <TitleBox t={t} t0={0.12} x={26} y={20} w={884} h={212} lines={['Kamu Bisa Jadi', 'Menarik Perhatian']} num="3" size={68} seed={31} />
