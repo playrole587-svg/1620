@@ -1,0 +1,8 @@
+node_modules/
+out/seg/
+out/qa*/
+out/smoke/
+out/preview_raw.mp4
+out/preview_mux.mp4
+out/*.log
+.gl-mode

@@ -1,0 +1,1 @@
+export BROWSER_EXE=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell
