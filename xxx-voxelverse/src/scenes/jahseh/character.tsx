@@ -46,6 +46,15 @@ const head = (v: Vox) => {
   }
 };
 
+const headphones = (v: Vox) => {
+  v.box([0, 0.66, -0.02], [0.62, 0.05, 0.1], 0x1d2224, { mat: "satin", r: 0.02 });
+  for (const sx of [-1, 1]) {
+    v.box([sx * 0.31, 0.5, -0.02], [0.05, 0.3, 0.1], 0x1d2224, { mat: "satin", r: 0.02 });
+    v.box([sx * 0.3, 0.27, -0.01], [0.1, 0.24, 0.22], 0x2b3236, { mat: "satin", r: 0.04 });
+    v.box([sx * 0.35, 0.27, -0.01], [0.03, 0.14, 0.14], 0xd9a441, { mat: "metal", r: 0.01 });
+  }
+};
+
 const torso = (v: Vox) => {
   v.box([0, 0.31, 0], [0.64, 0.66, 0.36], HOOD, { mat: "fabric", r: 0.07 });
   v.box([0, 0.0, 0], [0.66, 0.12, 0.38], HOOD_DARK, { mat: "fabric", r: 0.05 });          // hem
@@ -75,25 +84,29 @@ export type Pose = {
   headYaw?: number; headPitch?: number;
   armL?: [number, number]; armR?: [number, number]; // [shoulder pitch, elbow bend]
   lean?: number;
+  /** 0 standing .. 1 seated (hips drop, thighs forward) */
+  sit?: number;
   /** breathing / bob clock in frames */
   t: number;
 };
 
 /** Total height ≈ 1.95 at scale 1; use `scale` ~0.88 for a ≈1.7 m figure. */
-export const Character: React.FC<{ pos: [number, number, number]; rotY: number; pose: Pose; scale?: number }> = ({ pos, rotY, pose, scale = 0.88 }) => {
-  const { walk = 0, amp = 0, headYaw = 0, headPitch = 0, lean = 0, t } = pose;
+export const Character: React.FC<{ pos: [number, number, number]; rotY: number; pose: Pose; scale?: number; phones?: boolean }> = ({ pos, rotY, pose, scale = 0.88, phones = false }) => {
+  const { walk = 0, amp = 0, headYaw = 0, headPitch = 0, lean = 0, sit = 0, t } = pose;
+  const hipY = 1.04 - sit * 0.87;
   const sw = Math.sin(walk) * amp;
   const bob = Math.abs(Math.cos(walk)) * 0.04 * amp + Math.sin(t / 22) * 0.006;
   const armL = pose.armL ?? [sw * 0.7, 0.15 + amp * 0.25];
   const armR = pose.armR ?? [-sw * 0.7, 0.15 + amp * 0.25];
-  const legL = sw * 0.7, legR = -sw * 0.7;
-  const kneeL = Math.max(0, -Math.cos(walk) * amp) * 0.8, kneeR = Math.max(0, Math.cos(walk) * amp) * 0.8;
+  const legL = sw * 0.7 - sit * 1.5, legR = -sw * 0.7 - sit * 1.5;
+  const kneeL = Math.max(0, -Math.cos(walk) * amp) * 0.8 + sit * 1.5, kneeR = Math.max(0, Math.cos(walk) * amp) * 0.8 + sit * 1.5;
   return (
     <group position={pos} rotation={[0, rotY, 0]} scale={scale}>
-      <group position={[0, 1.04 + bob, 0]} rotation={[lean, 0, 0]}>
+      <group position={[0, hipY + bob, 0]} rotation={[lean, 0, 0]}>
         <VoxModel build={torso} seed={3} />
         <group position={[0, 0.72, 0]} rotation={[-headPitch, headYaw, 0]}>
           <VoxModel build={head} seed={5} />
+          {phones ? <VoxModel build={headphones} seed={6} /> : null}
         </group>
         {([[-1, armL], [1, armR]] as const).map(([s, a]) => (
           <group key={s} position={[s * 0.4, 0.58, 0]} rotation={[a[0], 0, s * 0.06]}>
@@ -105,7 +118,7 @@ export const Character: React.FC<{ pos: [number, number, number]; rotY: number; 
         ))}
       </group>
       {([[-1, legL, kneeL], [1, legR, kneeR]] as const).map(([s, a, k]) => (
-        <group key={s} position={[s * 0.16, 1.04 + bob, 0]} rotation={[a, 0, 0]}>
+        <group key={s} position={[s * 0.16, hipY + bob, 0]} rotation={[a, 0, 0]}>
           <VoxModel build={thigh} seed={9} />
           <group position={[0, -0.46, 0]} rotation={[k, 0, 0]}>
             <VoxModel build={shin} seed={10} />

@@ -2,6 +2,7 @@ import React from "react";
 import { Composition } from "remotion";
 import { PRESETS } from "./core/film/frame.ts";
 import { Lookdev, LOOKDEV_SECONDS } from "./scenes/jahseh/Lookdev.tsx";
+import { Film, FILM_SECONDS } from "./scenes/jahseh/Film.tsx";
 import { Showcase } from "./scenes/showcase/Showcase.tsx";
 
 // Register each film twice: a preview (540 × 960 @ 30, for approval) and a final (1080 × 1920 @ 60).
@@ -13,5 +14,7 @@ export const RemotionRoot: React.FC = () => (
     <Composition id="ShowcasePreview" component={Showcase} durationInFrames={6 * preview.fps} fps={preview.fps} width={preview.width} height={preview.height} />
     <Composition id="ShowcaseFinal" component={Showcase} durationInFrames={6 * final.fps} fps={final.fps} width={final.width} height={final.height} />
     <Composition id="Lookdev" component={Lookdev} durationInFrames={LOOKDEV_SECONDS * preview.fps} fps={preview.fps} width={preview.width} height={preview.height} />
+    <Composition id="FilmPreview" component={Film} durationInFrames={FILM_SECONDS * preview.fps} fps={preview.fps} width={preview.width} height={preview.height} />
+    <Composition id="FilmFinal" component={Film} durationInFrames={FILM_SECONDS * final.fps} fps={final.fps} width={final.width} height={final.height} />
   </>
 );
